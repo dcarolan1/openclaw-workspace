@@ -24,7 +24,7 @@
 - KNGD VNTRS — Zac Jiwa's company (David 14% equity). Consulting + Food Wine and God TV series. Eden Lewis is Zac's OpenClaw AI.
 - Rhythm.Coffee — for-profit specialty coffee subscription. Premium, $39→$24.99/mo. Pre-launch. Under BAG for now.
 - Sunny Antiques
-- Ekklesia of Texas — church association, David holds a board seat
+- Ekklesia of Texas — church association, David is board member + founding pastor. Mel Jones is ED. Key asset: Joy512.com radio (Austin). GJ promotion partner.
 - Compassionate Christian thinker
 - Academic and researcher
 - Entrepreneur

@@ -117,14 +117,13 @@ David B Carolan
   - Active business or side project?
   - Revenue model (resale, estate sales, marketplace?)
 
-### Ekklesia of Texas
-- **Role:** David holds a board seat
-- **What it is:** Church association
-- **David's involvement:** Governance/advisory, not operational management
-- **⚠️ Missing context:**
-  - What does the association do? (denomination network? advocacy? resources?)
-  - What is David's role on the board?
-  - How much of David's time does this require?
+### Ekklesia of Texas — Church Association (Board Seat)
+- **Role:** David is board member and founding pastor (organized as a church like E456)
+- **ED:** Mel Jones (close friend of David)
+- **Key operation:** Joy512.com — radio station in Austin, TX
+- **GJ connection:** Significant promotion channel for Generous Java — free coffee at events, interviews, referrals
+- **Platform:** MS365 (David has access)
+- **David's involvement:** Board governance, GJ promotion partnership, relationship with Mel Jones. Not day-to-day operations.
 
 ---
 
