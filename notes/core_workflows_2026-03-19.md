@@ -2,7 +2,7 @@
 
 ## Overview
 
-Seven workflows that cover David's recurring operational needs across BAG, Joy Restart, Generous Java, E456, Sunny Antiques, KNGD VNTRS, Rhythm.Coffee, and shared functions. Each workflow defines what Aaron does, what David does, and which model handles each step.
+Seven workflows that cover David's recurring operational needs across BAG, E456 (church — parent of Joy Restart and Generous Java), Sunny Antiques, KNGD VNTRS, Rhythm.Coffee, Ekklesia of Texas, and shared functions. Each workflow defines what Aaron does, what David does, and which model handles each step.
 
 ---
 

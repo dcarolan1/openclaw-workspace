@@ -68,7 +68,8 @@ David checks Telegram. Aaron handles everything else.
 | `#generous-java` | GJ operations, sourcing, product, sales |
 | `#biz-assistance-group` | BAG consulting projects, client work, AI implementations |
 | `#joy-restart` | JR nonprofit operations, programs, outreach |
-| `#e456` | E456 project coordination |
+| `#e456` | E456 church operations (parent of Joy Restart + Generous Java) |
+| `#ekklesia-of-texas` | Ekklesia of Texas board/association work |
 | `#kngd-vntrs` | KNGD VNTRS operations |
 | `#rhythm-coffee` | Rhythm.Coffee operations |
 | `#sunny-antiques` | Sunny Antiques operations |

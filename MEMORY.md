@@ -17,13 +17,14 @@
 - Privacy: protect private data always
 
 ## David's World
-- Generous Java
-- Biz Assistance Group
-- E456
-- Joy Restart
+- E456 — church (David is pastor). Manages Joy Restart and Generous Java.
+- Joy Restart — nonprofit, managed under E456
+- Generous Java — coffee venture, managed under E456
+- Biz Assistance Group (BAG) — AI consulting company, Aaron's home org
 - KNGD VNTRS
 - Rhythm.Coffee
 - Sunny Antiques
+- Ekklesia of Texas — church association, David holds a board seat
 - Compassionate Christian thinker
 - Academic and researcher
 - Entrepreneur
