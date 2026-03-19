@@ -107,12 +107,14 @@ David B Carolan
 - **Team:** Same as GJ — Brad Rock (site), Theresa Bohls (marketing). Upgraded marketing approach.
 - **Legal:** Will be separate entity, not yet formalized
 
-### Sunny Antiques
-- **What it does:** ⚠️ Unknown. Presumably antiques — buying, selling, or collecting.
-- **⚠️ Missing context:**
-  - Online? Physical? Both?
-  - Active business or side project?
-  - Revenue model (resale, estate sales, marketplace?)
+### Sunny Antiques — Antiques & Art (Hobby/Side Business)
+- **Parent:** Under BAG (like Rhythm.Coffee)
+- **What it does:** Acquires deeply discounted and distressed antiques and art (75-95% off from thrift stores, estate sales), refurbishes/restores, and resells.
+- **Model:** Buy low → restore → use/display/loan → eventually sell
+- **Sales channel:** Social platforms only (FB Marketplace preferred). Has sunnyantiques.com but David wants to sell on social, not the website.
+- **Nature:** Hobby that generates occasional revenue. David buys, holds, restores, puts in home or loans to family/friends, sells when ready.
+- **Current state:** Active hobby, not a primary revenue driver
+- **Team:** David only
 
 ### Ekklesia of Texas — Church Association (Board Seat)
 - **Role:** David is board member and founding pastor (organized as a church like E456)

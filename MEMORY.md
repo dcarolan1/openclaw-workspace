@@ -23,7 +23,7 @@
 - Biz Assistance Group (BAG) — 25yr consulting practice + venture incubator. Aaron's home org. No external clients active, internal fees from other ventures.
 - KNGD VNTRS — Zac Jiwa's company (David 14% equity). Consulting + Food Wine and God TV series. Eden Lewis is Zac's OpenClaw AI.
 - Rhythm.Coffee — for-profit specialty coffee subscription. Premium, $39→$24.99/mo. Pre-launch. Under BAG for now.
-- Sunny Antiques
+- Sunny Antiques — hobby/side biz. Buy distressed antiques 75-95% off, restore, resell on FB Marketplace. Under BAG.
 - Ekklesia of Texas — church association, David is board member + founding pastor. Mel Jones is ED. Key asset: Joy512.com radio (Austin). GJ promotion partner.
 - Compassionate Christian thinker
 - Academic and researcher
