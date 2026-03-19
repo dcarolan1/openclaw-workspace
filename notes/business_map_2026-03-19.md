@@ -18,16 +18,13 @@ David B Carolan
 
 ## Business Profiles
 
-### E456 — Church
+### E456 — Church (Non-Traditional)
 - **Role:** David is pastor
-- **What it does:** Church/ministry
-- **Manages:** Joy Restart and Generous Java operate under E456's umbrella
-- **⚠️ Missing context:**
-  - Denomination/tradition?
-  - Congregation size?
-  - Location (Wharton? Richmond? Both?)
-  - What does "E456" reference? (Scripture? Address? Brand name?)
-  - Does E456 have its own separate operations beyond JR and GJ?
+- **What it does:** Non-traditional church. Ministers on the internet through Joy Restart and Generous Java. Holds in-home services for a small group in the SW Houston area.
+- **Ministries:** Joy Restart (assessments + care) and Generous Java (generosity + coffee) operate as ministries of E456.
+- **Revenue:** ~$60k/year in donations
+- **Congregation:** Small — handful of people for in-home services, broader reach through online ministries
+- **Website:** e456.org
 
 ### Joy Restart — Ministry of E456
 - **Parent:** E456.org (church ministry, not a separate nonprofit)

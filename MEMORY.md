@@ -17,7 +17,7 @@
 - Privacy: protect private data always
 
 ## David's World
-- E456 — church (David is pastor). JR and GJ are ministries of e456.org.
+- E456 — non-traditional church (David is pastor). Ministers online via JR + GJ, in-home services in SW Houston. ~$60k/yr donations.
 - Joy Restart — ministry of E456. Free assessments + followup for Christian caregivers. Soft-launched March 2026.
 - Generous Java — ministry of E456. Gourmet coffee + generosity education. White-labeled via javacoffee.com. Ready to expand.
 - Biz Assistance Group (BAG) — 25yr consulting practice + venture incubator. Aaron's home org. No external clients active, internal fees from other ventures.
