@@ -145,3 +145,17 @@ All files present and correct. Structure matches our established conventions.
 - Version: jq-1.7
 - Installed via `sudo apt install -y jq` (David ran manually)
 - Verified: ✅
+
+### 2026-03-19 04:22 UTC — Ollama permissions fixed
+- `/usr/share/ollama` created with proper ownership (David ran sudo)
+- Ollama service restarted, clean slate (no models carried over)
+- Previous model pulls (mistral, deepseek-coder-v2, partial llama3.3:70b) discarded — clean start per David's directive
+
+### 2026-03-19 04:23 UTC — qwen3:8b installed
+- **Disk before:** 48GB used / 46GB free (52%)
+- **Disk after:** 53GB used / 41GB free (57%)
+- **Model size:** 5.2 GB
+- **Verified:** ✅ Running, generating output
+- **Performance:** ~5.9 tok/sec on CPU (i7-10700T, 16 threads, no GPU)
+- **Note:** Qwen3 defaults to thinking/reasoning mode. `response` field may appear empty while `thinking` field contains the reasoning chain. Use `/no_think` in prompt or API config to get direct responses.
+- **Only model installed.** No other models present.

@@ -8,7 +8,9 @@ _Last updated: 2026-03-19_
    - Status: In progress. System running. Audit pending.
 
 2. **Ollama & local models** — install, configure, integrate local model support
-   - Status: Not started. Blocked on #1.
+   - Status: In progress. Ollama 0.18.2 installed. qwen3:8b running (~5.9 tok/sec CPU).
+   - Only model: qwen3:8b. No others installed per David's directive.
+   - Next: OpenClaw integration, additional models per David's approval.
 
 3. **Re-establish workflows** — rebuild David's workflows and project systems using current tools only
    - Status: Not started. Blocked on #1/#2.
