@@ -1,5 +1,12 @@
 # Health Tracking — David
 
+## Rules
+- Do NOT optimize daily — weekly evaluation only
+- Do NOT change program unless trend is negative for 2+ weeks
+- Favor consistency over intensity
+- Flag risk early (sleep drop, HR up, missed sessions)
+- Aaron monitors and summarizes, David decides on changes
+
 ## Weekly Log
 
 ### Week of: YYYY-MM-DD
