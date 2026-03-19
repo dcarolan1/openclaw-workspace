@@ -141,9 +141,11 @@
 **Weeks 1–3 (Phase A):**
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |-----|-----|-----|-----|-----|-----|-----|
-| Workout A | Off | Off | Workout B | Off | Off | Off |
+| Workout A | Walk/Run 2-3mi | Walk/Run 2-3mi | Workout B | Walk/Run 2-3mi | Walk/Run 2-3mi | **OFF** |
 
 **Weeks 4–6 (Phase B):**
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |-----|-----|-----|-----|-----|-----|-----|
-| Chest + Tri | Off | Back + Bi | Legs + Abs | Off | Shoulders + Tri | Off |
+| Chest + Tri | Walk/Run 2-3mi | Back + Bi | Legs + Abs | Walk/Run 2-3mi | Shoulders + Tri | **OFF** |
+
+**Cardio rule:** Any non-lifting day = 2-3 mile walk or run. Sunday is always off. No exceptions.
