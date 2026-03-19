@@ -29,15 +29,21 @@ David B Carolan
   - What does "E456" reference? (Scripture? Address? Brand name?)
   - Does E456 have its own separate operations beyond JR and GJ?
 
-### Joy Restart — Nonprofit
-- **Parent:** E456
-- **What it does:** ⚠️ Unknown. Name suggests recovery, restoration, or second-chance ministry.
-- **⚠️ Missing context:**
-  - Mission statement / core program
-  - Who does it serve? (individuals, families, community?)
-  - Funding model (donations, grants, both?)
-  - Active programs or dormant?
-  - Staff/volunteers?
+### Joy Restart — Ministry of E456
+- **Parent:** E456.org (church ministry, not a separate nonprofit)
+- **What it does:** Creates free assessments for Christian caregivers and individuals, with recommended followup based on results.
+- **Serves:** Christian community at large, focused on those providing direct counseling, coaching, and pastoral care.
+- **Assessment domains:** Joy, maturity, fear, forgiveness, loneliness, peace, depression
+- **Followup funnel:** Generated recommendations → curated resources → community (Mighty Networks) → webinars → cohorts → 1:1 coaching (David)
+- **Revenue:** Donation-based under E456 + David's personal coaching ($99 one-time to $150/hr)
+- **Current state:** Soft-launched March 2026 after 3-year pivot from traditional joy coaching. Ready for public relaunch. No marketing done yet.
+- **Website:** WordPress, managed by Brad Rock (Rock Media)
+- **Assessment design:** David, previously using ChatGPT/Grok — wants to bring in-house through Aaron
+- **Community:** Mighty Networks (members seeking care)
+- **Key people:**
+  - Brad Rock (Rock Media) — website management
+  - Theresa Bohls — biz dev, outreach, social media, Mighty Networks community management
+- **No operational connection to GJ** beyond shared vendors (Brad, Theresa)
 
 ### Generous Java — Coffee Venture
 - **Parent:** E456
@@ -95,7 +101,7 @@ David B Carolan
 ## Relationships & Overlap
 
 ### Known Connections
-- **E456 → Joy Restart + Generous Java:** Parent-child. Ministry umbrella with a nonprofit arm and a business arm.
+- **E456 → Joy Restart + Generous Java:** Both are ministries of E456.org (a church). Not separate entities.
 - **Generous Java ↔ Rhythm.Coffee:** Both coffee-related. ⚠️ Unclear if separate brands, same operation, or different models.
 - **BAG → All ventures:** BAG's AI consulting expertise likely informs how David approaches automation across all his businesses. Aaron (BAG) serves the whole ecosystem.
 - **KNGD VNTRS → ???:** Possibly the venture-building or holding layer across David's portfolio. Unconfirmed.

@@ -17,8 +17,8 @@
 - Privacy: protect private data always
 
 ## David's World
-- E456 — church (David is pastor). Manages Joy Restart and Generous Java.
-- Joy Restart — nonprofit, managed under E456
+- E456 — church (David is pastor). JR and GJ are ministries of e456.org.
+- Joy Restart — ministry of E456. Free assessments + followup for Christian caregivers. Soft-launched March 2026.
 - Generous Java — coffee venture, managed under E456
 - Biz Assistance Group (BAG) — AI consulting company, Aaron's home org
 - KNGD VNTRS
