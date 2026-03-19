@@ -113,8 +113,14 @@ David B Carolan
 - **Model:** Buy low → restore → use/display/loan → eventually sell
 - **Sales channel:** Social platforms only (FB Marketplace preferred). Has sunnyantiques.com but David wants to sell on social, not the website.
 - **Nature:** Hobby that generates occasional revenue. David buys, holds, restores, puts in home or loans to family/friends, sells when ready.
+- **Inventory:** Significant existing inventory, already photographed.
 - **Current state:** Active hobby, not a primary revenue driver
-- **Team:** David only
+- **Team:** David + Sunny Chandaronkorn (co-buyer, wood restoration)
+- **Planned: Inventory management web app (mobile-first)**
+  - Users: David + Sunny
+  - Features: inventory tracking (acquisition cost, location, status, photos), AI-powered valuation (snap photo → estimated value + comps), restore cost tracking, sell recommendations (where, when, price)
+  - Needs bulk onboarding for existing inventory
+  - Priority: BACKLOG — after JR relaunch and GJ expansion
 
 ### Ekklesia of Texas — Church Association (Board Seat)
 - **Role:** David is board member and founding pastor (organized as a church like E456)
