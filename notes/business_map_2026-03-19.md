@@ -85,12 +85,15 @@ David B Carolan
 - **Website:** Landing page only at bizassistancegroup.com, hosted by Brad Rock
 - **Team:** David + Aaron. Brad hosts the site. No other staff.
 
-### KNGD VNTRS
-- **What it does:** ⚠️ Unknown. Name suggests "Kingdom Ventures" — possibly an investment, holding, or venture-building entity.
-- **⚠️ Missing context:**
-  - Everything. What is it? What does it do? Active or in development?
-  - Relationship to other ventures?
-  - Is it the holding company / umbrella for David's portfolio?
+### KNGD VNTRS — Consulting + Media (Zac Jiwa's Company)
+- **Control:** Zac Jiwa (majority). David holds 14% equity (not yet delivered).
+- **Relationship:** Zac is like a son to David. They do consulting gigs together through this company.
+- **What it does:** Consulting (same type as BAG — business/tech) + media production
+- **Subsidiary:** Food Wine and God (foodwineandgod.com) — TV series. Pilot complete, in post-production.
+- **David's role:** Partner, contributes consulting. Not operational control.
+- **Zac's AI:** Eden Lewis (OpenClaw instance on separate box at Zac's residence in Austin, TX). Aaron and Eden expected to interact.
+- **BAG connection:** BAG charges KNGD VNTRS support fees for services rendered.
+- **Location:** Zac in Austin, TX. David in Wharton, TX.
 
 ### Rhythm.Coffee — For-Profit Specialty Coffee Subscription
 - **Parent:** Currently under Biz Assistance Group, not yet set up as a separate entity
