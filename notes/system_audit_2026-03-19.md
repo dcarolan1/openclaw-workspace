@@ -136,3 +136,12 @@ All files present and correct. Structure matches our established conventions.
 | 3 | Install Ollama + configure | Yes — needs David's go-ahead on models | Priority #2 |
 | 4 | Evaluate Tailscale need | No — David decides | Future |
 | 5 | Review SSH hardening | No | When convenient |
+
+---
+
+## Post-Audit Updates
+
+### 2026-03-19 03:48 UTC — jq installed
+- Version: jq-1.7
+- Installed via `sudo apt install -y jq` (David ran manually)
+- Verified: ✅

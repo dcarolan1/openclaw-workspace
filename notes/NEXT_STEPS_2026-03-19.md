@@ -5,7 +5,7 @@
 1. **Install jq**
    - `sudo apt install jq`
    - Needed for JSON processing in automation scripts
-   - Status: Pending (needs sudo)
+   - Status: ✅ Done — jq-1.7 installed 2026-03-19
 
 2. **Install Ollama**
    - Install runtime and verify GPU/CPU support
