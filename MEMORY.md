@@ -23,6 +23,7 @@
 - Joy Restart
 - KNGD VNTRS
 - Rhythm.Coffee
+- Sunny Antiques
 - Compassionate Christian thinker
 - Academic and researcher
 - Entrepreneur

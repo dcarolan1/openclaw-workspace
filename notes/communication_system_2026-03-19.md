@@ -71,6 +71,7 @@ David checks Telegram. Aaron handles everything else.
 | `#e456` | E456 project coordination |
 | `#kngd-vntrs` | KNGD VNTRS operations |
 | `#rhythm-coffee` | Rhythm.Coffee operations |
+| `#sunny-antiques` | Sunny Antiques operations |
 
 ### By Function
 | Channel | Purpose |
