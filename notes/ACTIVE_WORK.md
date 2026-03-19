@@ -9,8 +9,10 @@ _Last updated: 2026-03-19_
 
 2. **Ollama & local models** — install, configure, integrate local model support
    - Status: In progress. Ollama 0.18.2 installed. qwen3:8b running (~5.9 tok/sec CPU).
-   - Models: qwen3:8b (speed, ~6 tok/sec) + qwen3:32b (working, ~1.5 tok/sec)
-   - Both evaluated and verified. See notes/qwen3_*_eval_*.md
+   - Status: **FROZEN.** No additional model installs without explicit David approval.
+   - qwen3:8b — approved for fast local work (~6 tok/sec)
+   - qwen3:32b — approved for quality local work (~1.5 tok/sec)
+   - Claude Opus — primary for high-stakes reasoning (Anthropic API)
    - Next: OpenClaw-Ollama integration, backup strategy
 
 3. **Re-establish workflows** — rebuild David's workflows and project systems using current tools only

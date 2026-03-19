@@ -8,20 +8,20 @@
    - Status: ✅ Done — jq-1.7 installed 2026-03-19
 
 2. **Install Ollama**
-   - Install runtime and verify GPU/CPU support
-   - Status: Not started
+   - Status: ✅ Done — Ollama 0.18.2 installed 2026-03-19
 
-3. **Recommend model set**
-   - Evaluate local models for David's use cases: coding, writing, research, business ops
-   - Balance quality vs. resource usage (62GB RAM available)
-   - Deliver recommendation with rationale
-   - Status: Not started
+3. **Model stack — FROZEN**
+   - qwen3:8b — approved for fast local work (~6 tok/sec, 5.2GB)
+   - qwen3:32b — approved for quality local work (~1.5 tok/sec, 20GB)
+   - Claude Opus — primary for high-stakes reasoning (Anthropic API)
+   - **No additional model installs without explicit David approval.**
+   - Status: ✅ Done — evaluated, approved, frozen
 
 4. **Verify local model integration**
    - Configure OpenClaw to route to Ollama as a provider
    - Test inference, latency, and reliability
    - Confirm fallback to Anthropic when needed
-   - Status: Blocked on #2/#3
+   - Status: Not started
 
 5. **Define active workflows**
    - Map David's day-to-day needs across businesses (GJ, BAG, E456, JR, KNGD VNTRS, Rhythm.Coffee)
