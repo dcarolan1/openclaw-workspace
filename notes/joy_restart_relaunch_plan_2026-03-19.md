@@ -9,12 +9,15 @@ Free assessments for Christian caregivers and individuals across seven domains (
 
 | Offering | Cost | Status |
 |----------|------|--------|
-| Assessments (7 domains) | Free | Most live, some still being built with Brad Rock |
-| Generated report + recommendations | Free | ⚠️ Need to confirm: is a report delivered post-assessment? |
-| Curated resources (books, articles) | Free | Exists |
-| Community (Mighty Networks) | Free? | Live, managed by Theresa |
-| Webinars | Free/paid? | ⚠️ Status unclear — active or planned? |
-| Cohorts | Paid? | ⚠️ Status unclear — active or planned? |
+| Assessments — Joy, Maturity, Fear, Forgiveness | Free | **Live** |
+| Assessments — Loneliness, Peace, Depression | Free | **In development** (Brad building) |
+| 5-8 page detailed report | Free | Delivered post-assessment |
+| Free 15-min call with David (results review) | Free | Active |
+| Curated partner resources | Free | Exists |
+| Community (Mighty Networks) | Free to join | Live, managed by Theresa |
+| Premium assessments (more thorough) | Paid | Available within MN |
+| Group cohorts | Paid | Exists from past 3 years, dormant (no marketing) |
+| Monthly webinars (ministry partner guests) | Free/paid? | Exists from past 3 years, dormant (no marketing) |
 | 1:1 Coaching (David) | $99 one-time or up to $150/hr | Active |
 
 ### User Journey
@@ -26,14 +29,18 @@ Landing page → Take a free assessment
     ↓
 Assessment (one of 7 domains)
     ↓
-Results + Recommended followup
+5-8 page detailed report delivered
     ↓
-[Branch point]
-├── Join community (Mighty Networks) — free
-├── Access curated resources — free
-├── Attend webinar — free/paid?
-├── Join a cohort — paid?
-└── Book 1:1 coaching with David — $99-$150/hr
+Invited to:
+├── Explore partner resources — free
+├── Join Mighty Networks community — free
+├── Book free 15-min call with David (results review)
+    ↓
+[Within community — paid upgrades]
+├── Premium/deeper assessments — paid
+├── Group cohorts — paid
+├── Monthly webinars (ministry partner guests)
+└── 1:1 Coaching with David — $99-$150/hr
 ```
 
 ### Revenue Paths
@@ -64,6 +71,7 @@ Results + Recommended followup
 | Website | Live (WordPress) | Optimized for conversion (assessment → community → coaching) |
 | Community | Mighty Networks active | Growing, engaged, regular content |
 | Marketing | None. Soft launch only. | Public relaunch with social, Joy512, email, partnerships |
+| Free 15-min call | Active | Key conversion step — assessment → relationship with David |
 | Coaching | David takes clients | David takes clients (scalability limited) |
 | Content | Drip campaigns, curated resources | Consistent publishing cadence |
 | Assessment design | External (ChatGPT/Grok) | In-house through Aaron |
@@ -74,21 +82,22 @@ Results + Recommended followup
 
 I need answers on these to make the plan executable. Numbered for easy response.
 
-**Must-know (blocks the plan):**
+**Answered:**
+1. ✅ Live: Joy, Maturity, Fear, Forgiveness. Building: Loneliness, Peace, Depression.
+2. ✅ 5-8 page detailed report delivered. Invited to explore resources, join MN, free 15-min call with David.
+3. ✅ MN is free to join. Premium services inside (deeper assessments, coaching, cohorts). ⚠️ Still need: member count and engagement level.
+4. ✅ All exist from past 3 years. Live but dormant — no marketing, no upcoming scheduled events.
+5. ✅ Theresa: $30/hr contractor, ~5 hrs/week, as needed.
+6. ✅ Brad: Very fast turnaround, very knowledgeable, uses Claude and AI tools.
 
-1. **Which assessments are live and which are still being built?** Can I see the site? (URL)
-2. **What happens after someone completes an assessment?** Do they get an emailed report? On-screen results? A PDF? What does the "recommended followup" actually look like today?
-3. **Mighty Networks** — how many members? Is there active engagement, or is it quiet? Free or paid to join?
-4. **Webinars and cohorts** — do these exist today, or are they planned? If planned, are there outlines or content ready?
-5. **Theresa's availability** — how many hours/week is she working on JR? Is she paid, volunteer, or contractor?
-6. **Brad's availability and turnaround** — when Aaron needs site changes pushed, what's the typical timeline?
-
-**Good to know (makes the plan better):**
+**Still needed (makes the plan better):**
 
 7. **Email list** — does JR have one? How many subscribers?
 8. **Social accounts** — which platforms? Followers? Active posting?
 9. **Analytics** — any traffic data on the site? (monthly visitors, assessment completions)
 10. **David's coaching capacity** — how many coaching clients can you take per month before it's too much?
+11. **MN member count** — roughly how many people are in the Mighty Networks community?
+12. **JR website URL** — so I can review the site directly
 
 ---
 
