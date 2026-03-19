@@ -90,14 +90,16 @@ I need answers on these to make the plan executable. Numbered for easy response.
 5. ✅ Theresa: $30/hr contractor, ~5 hrs/week, as needed.
 6. ✅ Brad: Very fast turnaround, very knowledgeable, uses Claude and AI tools.
 
-**Still needed (makes the plan better):**
+**Answered:**
+7. ✅ ~500 people in existing contact base (past JR participants). No one has rejoined MN yet.
+8. ⚠️ Still need: which social platforms, follower counts
+9. ⚠️ Still need: site traffic/analytics
+10. ⚠️ Still need: David's coaching capacity per month
+12. ✅ joyrestart.com — reviewed. Clean landing page, clear CTA to take assessments.
 
-7. **Email list** — does JR have one? How many subscribers?
-8. **Social accounts** — which platforms? Followers? Active posting?
-9. **Analytics** — any traffic data on the site? (monthly visitors, assessment completions)
-10. **David's coaching capacity** — how many coaching clients can you take per month before it's too much?
-11. **MN member count** — roughly how many people are in the Mighty Networks community?
-12. **JR website URL** — so I can review the site directly
+**Key relaunch asset:** Multiple partners who co-created assessments are ready to promote the site. This is the primary launch channel — partner-driven distribution, not cold marketing.
+
+**Warm list of 500:** These are past JR participants. Re-engagement campaign is the highest-leverage first move.
 
 ---
 
