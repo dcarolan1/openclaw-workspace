@@ -70,16 +70,20 @@ David B Carolan
   - Bill Lauder — Java Coffee owner (potential acquisition target)
   - Practicing the Way — ministry partner (online course)
 
-### Biz Assistance Group (BAG) — AI Consulting
-- **What it does:** Helps small businesses adopt AI tools and automation. Practical implementation, not theory.
-- **Aaron's home org.** Email: aaron@bizassistancegroup.com
-- **Confidence:** Highest — David described this directly.
-- **⚠️ Missing context:**
-  - Active clients? (number, type, industries)
-  - Service packages / pricing model
-  - Website status (live? needs work?)
-  - Revenue stage
-  - Is Aaron client-facing (do clients interact with me)?
+### Biz Assistance Group (BAG) — Consulting + Venture Incubator
+- **Owner:** David, wholly owned. 25-year-old consulting business.
+- **What it does:** General business consulting (operations, finance, technology) now morphing into AI-powered consulting with Aaron as the operational backbone. Also serves as the incubator for new ventures (Rhythm.Coffee, Sunny Antiques are examples).
+- **Target clients:** Small to mid tech companies, some startups.
+- **Pricing:** Retainer, monthly fees, stock.
+- **Current clients:** No external clients active. Internal revenue from support services to GJ, JR, KNGD VNTRS (fee charges). Not actively seeking pipeline except for exceptional acquisition or startup opportunities.
+- **Venture incubation:** BAG births and supports new ideas. Rhythm.Coffee and Sunny Antiques are examples.
+- **Aaron's role:**
+  - Home org. Email: aaron@bizassistancegroup.com
+  - Phone: 404-500-7050 (shared mobile with David)
+  - WhatsApp Business: coming soon, tied to that number
+  - Client-facing: some clients will interact with Aaron directly, others won't
+- **Website:** Landing page only at bizassistancegroup.com, hosted by Brad Rock
+- **Team:** David + Aaron. Brad hosts the site. No other staff.
 
 ### KNGD VNTRS
 - **What it does:** ⚠️ Unknown. Name suggests "Kingdom Ventures" — possibly an investment, holding, or venture-building entity.
