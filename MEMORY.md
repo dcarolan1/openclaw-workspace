@@ -19,7 +19,7 @@
 ## David's World
 - E456 — church (David is pastor). JR and GJ are ministries of e456.org.
 - Joy Restart — ministry of E456. Free assessments + followup for Christian caregivers. Soft-launched March 2026.
-- Generous Java — coffee venture, managed under E456
+- Generous Java — ministry of E456. Gourmet coffee + generosity education. White-labeled via javacoffee.com. Ready to expand.
 - Biz Assistance Group (BAG) — AI consulting company, Aaron's home org
 - KNGD VNTRS
 - Rhythm.Coffee

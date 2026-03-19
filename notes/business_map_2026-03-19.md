@@ -45,15 +45,30 @@ David B Carolan
   - Theresa Bohls — biz dev, outreach, social media, Mighty Networks community management
 - **No operational connection to GJ** beyond shared vendors (Brad, Theresa)
 
-### Generous Java — Coffee Venture
-- **Parent:** E456
-- **What it does:** Coffee-related business. ⚠️ Unclear if retail, wholesale, subscription, or social enterprise.
-- **⚠️ Missing context:**
-  - Business model (roasting? retail? subscription? cafe?)
-  - Is it a social enterprise tied to Joy Restart's mission?
-  - Revenue stage (active sales? pre-launch? early?)
-  - Online presence? (website, storefront)
-  - Sourcing model?
+### Generous Java — Ministry of E456
+- **Parent:** E456.org (church ministry)
+- **What it does:** Gourmet coffee as a vehicle for teaching Christian generosity. Offers coffee as low as $5/lb, paired with curated content that teaches how to be generous, where to give locally (including customers' own churches), and how to help others be generous.
+- **Core model:** Lead with generosity (the price), teach generosity (the content), spread generosity (local giving). The product is the vehicle, not the point.
+- **Coffee operations:**
+  - White-labeled through javacoffee.com (35-year partnership)
+  - Roaster/shipper: Julio Munos at Java Coffee
+  - Owner: Bill Lauder — David wants to acquire when Bill sells
+  - Same roaster will white-label Rhythm.Coffee (separate for-profit brand)
+  - David handles tasting, blends, packaging, pricing, business model
+  - $5/lb is a loss leader (customer acquisition cost)
+- **Content & education:**
+  - Curated best-in-class Christian books, articles, blog (with Theresa Bohls)
+  - Original drip campaigns teaching generosity to new customers
+  - Online course from Practicing the Way (ministry partner)
+- **Revenue:** Very low, still building. 4 years refining model/site. Ready to expand.
+- **Distribution:** Online via WP/WooCommerce + retail and wholesale for churches and businesses
+- **Website:** WordPress/WooCommerce, managed by Brad Rock. Staging server for dev → production.
+- **Key people:**
+  - Brad Rock (Rock Media) — site management
+  - Theresa Bohls — site, content, marketing
+  - Julio Munos — roaster/shipper at Java Coffee
+  - Bill Lauder — Java Coffee owner (potential acquisition target)
+  - Practicing the Way — ministry partner (online course)
 
 ### Biz Assistance Group (BAG) — AI Consulting
 - **What it does:** Helps small businesses adopt AI tools and automation. Practical implementation, not theory.
