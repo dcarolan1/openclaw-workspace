@@ -1,203 +1,283 @@
-# Joy Restart — Relaunch Plan (2026-03-19)
+# Joy Restart — Full Funnel Relaunch Plan (2026-03-19)
 
-## Part 1: The Model
-
-### What Joy Restart Is
-Free assessments for Christian caregivers and individuals across seven domains (joy, maturity, fear, forgiveness, loneliness, peace, depression), with recommended followup based on results. Entry is free. Depth costs money or engagement.
-
-### Offerings
-
-| Offering | Cost | Status |
-|----------|------|--------|
-| Assessments — Joy, Maturity, Fear, Forgiveness | Free | **Live** |
-| Assessments — Loneliness, Peace, Depression | Free | **In development** (Brad building) |
-| 5-8 page detailed report | Free | Delivered post-assessment |
-| Free 15-min call with David (results review) | Free | Active |
-| Curated partner resources | Free | Exists |
-| Community (Mighty Networks) | Free to join | Live, managed by Theresa |
-| Premium assessments (more thorough) | Paid | Available within MN |
-| Group cohorts | Paid | Exists from past 3 years, dormant (no marketing) |
-| Monthly webinars (ministry partner guests) | Free/paid? | Exists from past 3 years, dormant (no marketing) |
-| 1:1 Coaching (David) | $99 one-time or up to $150/hr | Active |
-
-### User Journey
-
-```
-Discovery (social, radio, referral, search)
-    ↓
-Landing page → Take a free assessment
-    ↓
-Assessment (one of 7 domains)
-    ↓
-5-8 page detailed report delivered
-    ↓
-Invited to:
-├── Explore partner resources — free
-├── Join Mighty Networks community — free
-├── Book free 15-min call with David (results review)
-    ↓
-[Within community — paid upgrades]
-├── Premium/deeper assessments — paid
-├── Group cohorts — paid
-├── Monthly webinars (ministry partner guests)
-└── 1:1 Coaching with David — $99-$150/hr
-```
-
-### Revenue Paths
-
-1. **Coaching** — David's time ($99 one-time to $150/hr). Only current revenue stream.
-2. **Donations** — under E456's umbrella (~$60k/yr total for E456, not JR-specific)
-3. **⚠️ Potential but unconfirmed:**
-   - Paid cohorts
-   - Paid webinars
-   - Premium community tier
-   - Sponsored/partner content
-
-### Partner Integrations
-
-| Partner | Role |
-|---------|------|
-| Brad Rock (Rock Media) | WordPress site, assessment delivery, staging → production |
-| Theresa Bohls | Biz dev, outreach, social media, Mighty Networks |
-| Practicing the Way | Online course (ministry partner) — ⚠️ how is this integrated? Link? Embedded? |
-| Joy512 / Ekklesia of Texas | Promotion channel (radio interviews, events, referrals) |
-| Aaron | Assessment design (bringing in-house), content, strategy, coordination |
-
-### Current State vs. Intended Relaunch
-
-| Dimension | Current | Intended |
-|-----------|---------|----------|
-| Assessments | Most live, some in progress with Brad | All 7 live and polished |
-| Website | Live (WordPress) | Optimized for conversion (assessment → community → coaching) |
-| Community | Mighty Networks active | Growing, engaged, regular content |
-| Marketing | None. Soft launch only. | Public relaunch with social, Joy512, email, partnerships |
-| Free 15-min call | Active | Key conversion step — assessment → relationship with David |
-| Coaching | David takes clients | David takes clients (scalability limited) |
-| Content | Drip campaigns, curated resources | Consistent publishing cadence |
-| Assessment design | External (ChatGPT/Grok) | In-house through Aaron |
+**Anchor date:** April 1, 2026 — Monica Mouer / CFT Institute podcast
+**Today:** March 19. **13 days to prepare. 27 days total plan.**
 
 ---
 
-## Part 2: What's Missing or Unclear
+## Part 1: The Funnel
 
-I need answers on these to make the plan executable. Numbered for easy response.
+### Entry Points (how people find JR)
 
-**Answered:**
-1. ✅ Live: Joy, Maturity, Fear, Forgiveness. Building: Loneliness, Peace, Depression.
-2. ✅ 5-8 page detailed report delivered. Invited to explore resources, join MN, free 15-min call with David.
-3. ✅ MN is free to join. Premium services inside (deeper assessments, coaching, cohorts). ⚠️ Still need: member count and engagement level.
-4. ✅ All exist from past 3 years. Live but dormant — no marketing, no upcoming scheduled events.
-5. ✅ Theresa: $30/hr contractor, ~5 hrs/week, as needed.
-6. ✅ Brad: Very fast turnaround, very knowledgeable, uses Claude and AI tools.
+| Channel | Type | Status |
+|---------|------|--------|
+| Monica Mouer podcast (CFT Institute) | Partner — April 1 | Confirmed |
+| Deeper Walk | Partner promotion | Ready, needs coordination |
+| R.E.A.C.H | Partner promotion | Ready, needs coordination |
+| LifeModel | Partner promotion | Ready, needs coordination |
+| Joy512 radio (Ekklesia of Texas) | Partner promotion | Mel Jones, needs scheduling |
+| ConvertKit re-engagement (500 contacts) | Owned list | Campaigns built, not launched |
+| Social media | Organic | Theresa manages, needs content |
+| Organic search | SEO (long-term) | Not a launch priority |
 
-**Answered:**
-7. ✅ ~500 people in existing contact base (past JR participants). No one has rejoined MN yet.
-8. ⚠️ Still need: which social platforms, follower counts
-9. ⚠️ Still need: site traffic/analytics
-10. ⚠️ Still need: David's coaching capacity per month
-12. ✅ joyrestart.com — reviewed. Clean landing page, clear CTA to take assessments.
+### First Assessment: Joy
 
-**Key relaunch assets:**
-- 500 contacts in ConvertKit (connected to MN). Campaigns built but not launched. Brad and Theresa can execute.
-- **Partners ready to promote:**
-  - Deeper Walk — closest ties
-  - R.E.A.C.H
-  - LifeModel
-- **Hard launch date: April 1, 2026** — Monica Mouer (CFT Institute) podcast. David is guest, talking about JR and the site. Everything must be sharp by then.
+**Why Joy first:**
+- It's the brand. Joy Restart → Joy Assessment is the most natural first step.
+- It has the broadest appeal — everyone wants more joy. Fear, Forgiveness, and Maturity are more targeted.
+- It sets up the entire value prop: "Take 10 minutes, get a personalized report, discover your joy baseline."
+- All marketing and CTAs lead here first. Other assessments are offered as "go deeper" after the first report.
 
-**Revised strategy:** April 1 podcast is the anchor event. Work backward from that date. Re-engage the 500 before the podcast so the community is warm when new listeners arrive.
+### The Funnel Flow
+
+```
+ENTRY: Podcast / Partner / Email / Social
+    ↓
+LANDING: joyrestart.com → "Take the free Joy Assessment"
+    ↓
+ASSESSMENT: Joy Assessment (10-12 minutes)
+    ↓
+REPORT: 5-8 page personalized report delivered
+    ↓
+REPORT CTAs (in the report itself):
+├── "Book a free 15-min call with David to review your results"
+├── "Join the Joy Restart Community" → Mighty Networks
+├── "Explore resources to go deeper" → /resources/
+├── "Take another assessment" → Maturity, Forgiveness, or Fear
+    ↓
+CONVERSION PATHS:
+├── Free 15-min call → coaching relationship ($99-$150/hr)
+├── Community (MN) → cohorts, webinars, premium assessments
+├── Partner resources → Deeper Walk, R.E.A.C.H, LifeModel, Practicing the Way
+└── Second assessment → deeper engagement, repeat the cycle
+```
+
+### Key Conversion Point
+
+The **free 15-min call** is the bridge between "I took an assessment" and "I have a relationship with David." This is where anonymous traffic becomes a real person. Every piece of the funnel must point here.
 
 ---
 
-## Part 3: Relaunch Plan — Anchored to April 1 Podcast
+## Part 2: The Plan
 
-**Hard date: April 1, 2026 — Monica Mouer / CFT Institute podcast.**
-David is a guest. Topic: Joy Restart and the assessments. Everything must be ready.
+### Phase 1: Prepare & Warm (March 19 → March 31)
 
-Today is March 19. That's **13 days** to prepare.
+#### Week 1: March 19-25 — Foundation
 
-### Phase 1: Warm the Base (March 19-25) — 7 days
+**Brad (site/tech):**
 
-**Goal:** Re-engage the 500 existing contacts before the podcast drives new traffic.
+| Task | Deadline |
+|------|----------|
+| Fix /about/ page — David's bio, JR mission, photo. Doesn't need to be fancy, needs to exist. | Mar 21 |
+| Add ConvertKit email signup form to homepage — "Get joy insights + be first to know what's coming" | Mar 22 |
+| Add prominent "Book a free 15-min call" CTA to: assessments page, coaching page, and post-assessment report | Mar 23 |
+| Clarify coaching page: is the free intro call 15 min or 30 min? Make it consistent everywhere. | Mar 21 |
+| Confirm post-assessment report includes clear CTAs: free call, community link, resources link, next assessment | Mar 24 |
 
-| Task | Owner | By When |
-|------|-------|---------|
-| Aaron audits joyrestart.com — take all 4 live assessments as a user, document the full experience, flag any issues | Aaron | Mar 20 |
-| Review ConvertKit campaigns — what's built, what's ready, what needs work | Aaron + Theresa | Mar 20 |
-| Draft re-engagement email sequence (3 emails): (1) "We're back — take a free assessment" (2) "Here's what's new at Joy Restart" (3) "Join us for something special April 1" | Aaron (Claude) | Mar 21 |
-| David approves email sequence | David | Mar 22 |
-| Launch re-engagement sequence to 500 contacts via ConvertKit | Theresa | Mar 23 |
-| Refresh Mighty Networks — new welcome post, clean up stale content, prep for incoming members | Theresa | Mar 23 |
-| Draft social posts teasing the relaunch (4 posts, 1 per live assessment domain) | Aaron (Claude) | Mar 22 |
-| David approves social posts | David | Mar 23 |
-| Begin social posting (1/day through April 1) | Theresa | Mar 24 |
-| Confirm with Monica Mouer: podcast logistics, talking points, what URL to send listeners to | Aaron → David → Monica | Mar 21 |
+**Aaron (strategy/writing):**
 
-### Phase 2: Polish for Spotlight (March 26-31) — 6 days
+| Task | Deadline |
+|------|----------|
+| Take the Joy Assessment myself — audit full experience, report quality, post-assessment flow | Mar 20 |
+| Write site audit action items for Brad (done — see jr_site_audit) | ✅ Done |
+| Draft re-engagement email sequence (3 emails — see below) | Mar 21 |
+| Draft upgraded assessment descriptions for Joy, Maturity, Forgiveness (match Fear quality) | Mar 23 |
+| Draft David's podcast talking points for Monica Mouer | Mar 24 |
+| Reach out to partners: draft messages for Deeper Walk, R.E.A.C.H, LifeModel asking them to promote during launch week | Mar 22 |
+| Coordinate Joy512 radio mention with Mel Jones for April 1 week | Mar 23 |
 
-**Goal:** Site, funnel, and community are flawless before podcast audience arrives.
+**Theresa (content/community):**
 
-| Task | Owner | By When |
-|------|-------|---------|
-| Fix any issues found in Aaron's site audit | Brad | Mar 28 |
-| Ensure post-assessment flow is clean: report delivery → resource links → MN invite → free 15-min call CTA | Aaron + Brad | Mar 28 |
-| Prepare podcast-specific landing page or CTA (optional — "Heard us on CFT? Start here") | Aaron + Brad | Mar 29 |
-| Draft David's podcast talking points — concise, compelling, drives listeners to joyrestart.com | Aaron (Claude) | Mar 27 |
-| David reviews talking points | David | Mar 28 |
-| Coordinate partner promotion: reach out to Deeper Walk, R.E.A.C.H, LifeModel — "We're relaunching, podcast April 1, can you share with your audience?" | Aaron drafts, David sends or approves | Mar 26-28 |
-| Schedule Joy512 radio mention or interview for early April | Aaron → Mel Jones | Mar 27 |
-| Confirm 3 remaining assessments (Loneliness, Peace, Depression) timeline with Brad — can any go live before April 1? | Aaron → Brad | Mar 26 |
-| Pre-schedule social posts for April 1-7 (podcast amplification) | Aaron + Theresa | Mar 30 |
+| Task | Deadline |
+|------|----------|
+| Refresh Mighty Networks — new welcome post, clean stale content, pin key resources | Mar 23 |
+| Review MN ↔ ConvertKit integration — ensure new assessment takers get invited to MN | Mar 22 |
+| Prepare social content calendar for March 24 → April 7 (Aaron provides drafts) | Mar 24 |
 
-### Phase 3: Launch Week (April 1-7)
+**David:**
 
-**Goal:** Maximize the podcast moment. Convert listeners to assessment takers to community members.
+| Task | Deadline |
+|------|----------|
+| Approve re-engagement emails (Aaron sends via Telegram) | Mar 22 |
+| Confirm: free call is 15 min or 30 min? | Mar 20 |
+| Confirm with Monica Mouer: date, format, what URL to send listeners to | Mar 21 |
+| Approve podcast talking points | Mar 25 |
+| Approve partner outreach messages | Mar 23 |
+
+#### Week 2: March 26-31 — Warm & Polish
+
+**Brad:**
+
+| Task | Deadline |
+|------|----------|
+| Implement any fixes from Aaron's assessment audit | Mar 28 |
+| Implement upgraded assessment descriptions (Aaron provides copy) | Mar 29 |
+| Optional: podcast-specific landing page ("Heard us on CFT? Start here → Joy Assessment") | Mar 30 |
+| Test full flow: homepage → assessment → report → CTA → MN signup | Mar 30 |
+
+**Aaron:**
+
+| Task | Deadline |
+|------|----------|
+| Send partner outreach (David approved) to Deeper Walk, R.E.A.C.H, LifeModel | Mar 26 |
+| Follow up with partners — confirm who will share, when, how | Mar 28 |
+| Draft social posts for launch week (April 1-7): podcast clips, assessment CTAs, testimonial requests | Mar 28 |
+| Draft launch-day email blast (see Email #4 below) | Mar 29 |
+| Pre-write April follow-up email sequence (Emails #5-6 below) | Mar 30 |
+| Final review: is everything ready? Site, emails, partners, social — go/no-go to David | Mar 31 |
+
+**Theresa:**
+
+| Task | Deadline |
+|------|----------|
+| Launch re-engagement email sequence to 500 contacts (Emails #1-3) | Mar 24 (Email 1), Mar 26 (Email 2), Mar 29 (Email 3) |
+| Begin social posting: 1 post/day through April 7 | Mar 24 |
+| Test MN onboarding: does a new member get a welcome? Is there content waiting for them? | Mar 28 |
+
+---
+
+### The Email Sequence
+
+**Pre-launch (to 500 existing contacts via ConvertKit):**
+
+**Email #1 — "We're Back" (March 24)**
+- Subject: "Joy Restart has something new for you"
+- Body: We've spent 3 years rebuilding. New assessments. New community. New resources. Take the free Joy Assessment and get your personalized report in minutes.
+- CTA: Take the Joy Assessment →
+- Tone: Warm, personal, from David
+
+**Email #2 — "What You'll Discover" (March 26)**
+- Subject: "10 minutes to understand your joy"
+- Body: Here's what the Joy Assessment actually reveals — your joy baseline across [key dimensions]. Plus you'll get a personalized report with next steps. And if you want to talk about your results, I'm offering a free 15-min call.
+- CTA: Take the Assessment → (primary) / Book a Free Call → (secondary)
+- Tone: Educational, specific
+
+**Email #3 — "Something Big on April 1" (March 29)**
+- Subject: "I'm going on a podcast — and I want you there"
+- Body: On April 1, I'll be a guest on Monica Mouer's podcast at CFT Institute talking about Joy Restart and what we're building. But before the world hears about it, I wanted you — our original community — to be first. Take your assessment now, join the community, and be part of what's coming.
+- CTA: Take Assessment → / Join Community →
+- Tone: Insider, exclusive, builds anticipation
+
+**Launch day and after:**
+
+**Email #4 — "It's Live" (April 1)**
+- Subject: "Listen now: Joy Restart on the CFT podcast"
+- Body: The episode is live. [Link to podcast]. If you haven't taken your assessment yet, now's the time. If you have, share it with someone who needs it.
+- CTA: Listen → / Take Assessment → / Share with a friend →
+
+**Email #5 — "Your Results Matter" (April 4)**
+- Subject: "Did you see your report?"
+- Body: If you took the assessment, your report has insights you might have missed. Want to talk through your results? Book a free 15-min call with me.
+- CTA: Book a Free Call →
+- Target: People who completed an assessment but haven't booked a call
+
+**Email #6 — "Go Deeper" (April 8)**
+- Subject: "Ready for the next step?"
+- Body: You've taken the Joy Assessment. Now try Maturity, Forgiveness, or Fear — each reveals a different dimension of your growth. Plus: join our community for weekly encouragement, upcoming webinars, and group cohorts.
+- CTA: Take Another Assessment → / Join Community →
+
+---
+
+### Phase 2: Launch & Convert (April 1 → April 14)
+
+#### Launch Week: April 1-7
 
 | Task | Owner | When |
 |------|-------|------|
-| **Podcast airs** — Monica Mouer / CFT Institute | David | Apr 1 |
-| Email blast to 500: "I was just on CFT podcast — listen here + take your assessment" | Theresa (Aaron drafts) | Apr 1 |
-| Social push: podcast clip, quote graphics, assessment CTA | Theresa | Apr 1-3 |
-| Partners share (Deeper Walk, R.E.A.C.H, LifeModel) | Partners | Apr 1-3 |
+| Podcast airs | David (guest) + Monica | Apr 1 |
+| Email #4 sent to full list | Theresa | Apr 1 |
+| Social blitz: podcast link, assessment CTA, quote graphics (1-2 posts/day) | Theresa (Aaron drafts) | Apr 1-7 |
+| Partners share with their audiences | Deeper Walk, R.E.A.C.H, LifeModel | Apr 1-3 |
 | Joy512 radio mention | Mel Jones | Apr 1 week |
-| Monitor daily: assessment completions, MN signups, coaching inquiries, email opens | Aaron | Daily → Telegram to David |
-| Engage personally in MN with new members | David + Theresa | Apr 1-7 |
-| Follow up with anyone who books a free 15-min call | David | Ongoing |
+| Monitor daily: assessment completions, email opens/clicks, MN signups, coaching inquiries | Aaron | Daily → Telegram digest to David |
+| Engage new MN members personally | David + Theresa | Apr 1-7 |
+| Respond to free 15-min call bookings | David | As they come in |
 
-### Phase 4: Post-Launch (April 8-14)
-
-**Goal:** Capture momentum, learn, plan month 2.
+#### Convert Week: April 8-14
 
 | Task | Owner | When |
 |------|-------|------|
-| Written relaunch report: what worked, metrics, what to do next | Aaron | Apr 8 |
-| Schedule next webinar (first one post-relaunch) | Aaron + David | Apr 10 |
-| Plan cohort restart if demand warrants | Aaron + David | Apr 10 |
-| Begin in-house assessment design pilot (pick one of the 3 remaining domains) | Aaron | Apr 8 |
+| Email #5 sent (nudge to book free call) | Theresa | Apr 4 |
+| Email #6 sent (second assessment + community) | Theresa | Apr 8 |
+| Written 2-week report: traffic, completions, MN joins, calls booked, conversions | Aaron | Apr 9 |
+| Identify top assessment domain by completion volume — plan first post-relaunch webinar around it | Aaron + David | Apr 10 |
+| Plan cohort restart if demand supports it | Aaron + David | Apr 11 |
+| Begin in-house assessment design pilot (one of: Loneliness, Peace, Depression) | Aaron | Apr 8 |
 | Draft Month 2 plan based on real data | Aaron | Apr 12 |
 
 ---
 
-## Roles Summary
+## Part 3: Execution Roles
 
-| Person | JR Relaunch Role |
-|--------|-----------------|
-| **David** | Approves messaging, does radio interviews, takes coaching clients, answers Aaron's context questions |
-| **Aaron** | Drives the plan. Drafts content, coordinates team, monitors metrics, designs assessments, writes reports. |
-| **Brad Rock** | Site fixes, assessment completion flow, email integration, staging → production |
-| **Theresa** | Social posting, Mighty Networks community, outreach execution |
-| **Mel Jones / Joy512** | Radio promotion, interviews, referrals |
+### Brad Rock — Site & Tech
+- Fix /about/ 404
+- Add ConvertKit form to homepage
+- Add free call CTA everywhere
+- Implement assessment description upgrades (Aaron provides copy)
+- Optional: podcast landing page
+- Test full funnel end-to-end
+- Implement any fixes from Aaron's assessment audit
+
+### Theresa Bohls — Content, Email, Social, Community
+- Execute ConvertKit email sequence (Aaron writes, David approves, Theresa sends)
+- Post social content daily (Aaron drafts initial batch)
+- Refresh and manage Mighty Networks
+- Welcome new members
+- Confirm MN ↔ ConvertKit integration works
+
+### Aaron — Strategy, Writing, Coordination
+- Audit site and assessments (done + ongoing)
+- Write all emails, social posts, assessment descriptions, podcast talking points
+- Coordinate partners (Deeper Walk, R.E.A.C.H, LifeModel, Mel Jones)
+- Monitor metrics daily during launch
+- Report to David via Telegram
+- Begin in-house assessment design post-launch
+
+### David — Decisions, Relationships, Coaching
+- Approve emails, talking points, partner outreach
+- Confirm podcast logistics with Monica
+- Do the podcast
+- Take free 15-min calls
+- Coach clients
+- Engage personally in MN during launch week
 
 ---
 
-## Success Metrics (30 days)
+## What Already Exists vs. What Gets Built
 
-| Metric | Target |
-|--------|--------|
-| Assessments completed | 100+ |
-| Mighty Networks new members | 25+ |
-| Coaching inquiries | 5+ |
-| Email list signups | 50+ |
-| Social reach (impressions) | Baseline established |
+| Item | Status |
+|------|--------|
+| 4 assessments (Joy, Maturity, Forgiveness, Fear) | ✅ Exists |
+| 5-8 page personalized reports | ✅ Exists |
+| Coaching page + booking | ✅ Exists |
+| Community (Mighty Networks) | ✅ Exists (needs refresh) |
+| Resources page | ✅ Exists |
+| Caregivers page | ✅ Exists |
+| ConvertKit with 500 contacts | ✅ Exists |
+| ConvertKit campaigns (structure) | ✅ Exists (needs content) |
+| Partner relationships | ✅ Exists (needs activation) |
+| Joy512 radio channel | ✅ Exists (needs scheduling) |
+| /about/ page | ❌ Build (Brad, 1 hour) |
+| Homepage email capture | ❌ Build (Brad, 30 min) |
+| Free 15-min call CTA placement | ❌ Build (Brad, 1 hour) |
+| 6 emails | ❌ Write (Aaron, David approves) |
+| 14 social posts | ❌ Write (Aaron, Theresa posts) |
+| Podcast talking points | ❌ Write (Aaron, David reviews) |
+| Partner outreach messages | ❌ Write (Aaron, David approves) |
+| Assessment description upgrades | ❌ Write (Aaron, Brad implements) |
+| Podcast landing page (optional) | ❌ Build if time allows |
 
-_These are directional. Adjust after Week 1 when we know actual starting numbers._
+**Bottom line:** 90% of the infrastructure exists. What's missing is content (emails, social, talking points) and activation (partner outreach, email launch, CTAs on site). This is a content + coordination sprint, not a build sprint.
+
+---
+
+## Success Metrics
+
+| Metric | 2-Week Target (by April 14) |
+|--------|----------------------------|
+| Assessments completed | 150+ |
+| MN new members | 40+ |
+| Free 15-min calls booked | 10+ |
+| Coaching conversions | 3+ |
+| Email list growth (net new beyond 500) | 75+ |
+| Partner shares completed | 3+ partners |
