@@ -88,12 +88,20 @@ David B Carolan
   - Relationship to other ventures?
   - Is it the holding company / umbrella for David's portfolio?
 
-### Rhythm.Coffee
-- **What it does:** ⚠️ Unknown. Coffee-related (separate from Generous Java?).
-- **⚠️ Missing context:**
-  - How does this differ from Generous Java?
-  - Is this a brand, a product line, a separate business?
-  - Active or planned?
+### Rhythm.Coffee — For-Profit Specialty Coffee Subscription
+- **Parent:** Currently under Biz Assistance Group, not yet set up as a separate entity
+- **What it does:** Specialty coffee subscription only. The longer you subscribe, the lower the price — $39/mo for 2lbs (free shipping), drops $1/mo until reaching $24.99 floor (~15 months to lock in).
+- **Audience:** Higher-end, higher-income, already coffee lovers. Not ministry-driven — pure premium brand.
+- **Differentiation from GJ:**
+  - GJ = ministry, generosity-focused, $5/lb entry, retail + wholesale + churches
+  - Rhythm = for-profit, premium, subscription-only, higher quality coffee, elevated packaging and experience
+- **Coffee operations:** White-labeled through same roaster (javacoffee.com / Julio Munos), but higher quality beans than GJ
+- **Marketing:** Social and web only. No biz dev, no wholesale. Premium brand experience.
+- **Revenue:** Pre-launch. No revenue yet.
+- **Current state:** Pre-launch. Building.
+- **Website:** Not yet built (or in progress — TBD)
+- **Team:** Same as GJ — Brad Rock (site), Theresa Bohls (marketing). Upgraded marketing approach.
+- **Legal:** Will be separate entity, not yet formalized
 
 ### Sunny Antiques
 - **What it does:** ⚠️ Unknown. Presumably antiques — buying, selling, or collecting.

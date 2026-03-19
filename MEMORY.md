@@ -22,7 +22,7 @@
 - Generous Java — ministry of E456. Gourmet coffee + generosity education. White-labeled via javacoffee.com. Ready to expand.
 - Biz Assistance Group (BAG) — AI consulting company, Aaron's home org
 - KNGD VNTRS
-- Rhythm.Coffee
+- Rhythm.Coffee — for-profit specialty coffee subscription. Premium, $39→$24.99/mo. Pre-launch. Under BAG for now.
 - Sunny Antiques
 - Ekklesia of Texas — church association, David holds a board seat
 - Compassionate Christian thinker
