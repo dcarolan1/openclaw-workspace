@@ -48,7 +48,7 @@ REPORT CTAs (in the report itself):
 CONVERSION PATHS:
 ├── Free 15-min call → coaching relationship ($99-$150/hr)
 ├── Community (MN) → cohorts, webinars, premium assessments
-├── Partner resources → Deeper Walk, R.E.A.C.H, LifeModel, Practicing the Way
+├── Partner resources → Deeper Walk, Great Commandment Network, Life Model, Relational Spirituality (Todd Hall), R.E.A.C.H (Worthington), Messenger International (Bevere), Practicing the Way
 └── Second assessment → deeper engagement, repeat the cycle
 ```
 

@@ -41,6 +41,14 @@ David B Carolan
   - Brad Rock (Rock Media) — website management
   - Theresa Bohls — biz dev, outreach, social media, Mighty Networks community management
 - **No operational connection to GJ** beyond shared vendors (Brad, Theresa)
+- **Assessment Partners ("On the Shoulders of Giants"):**
+  - Deeper Walk International — heart healing & freedom
+  - Great Commandment Network — meeting relational needs through love
+  - The Life Model (Jim Wilder) — joy and brain-based discipleship (core framework)
+  - Relational Spirituality (Todd Hall) — attachment & faith integration
+  - R.E.A.C.H (Everett Worthington) — forgiveness & reconciliation
+  - Messenger International (John Bevere) — the Fear of the Lord & intimacy with God
+  - CFT Institute (Monica Mouer) — therapist training, Life Model application, April 1 podcast
 
 ### Generous Java — Ministry of E456
 - **Parent:** E456.org (church ministry)
