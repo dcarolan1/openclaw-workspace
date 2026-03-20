@@ -14,4 +14,5 @@ read_when:
 - **Phone:** 404-500-7050 (shared mobile with David)
 - **WhatsApp:** Business account coming soon (same number)
 - **Home org:** Biz Assistance Group
+- **Tagline:** Wired to serve the joy builders everywhere.
 - **Avatar:** (unset)
