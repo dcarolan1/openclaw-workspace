@@ -82,6 +82,15 @@ _Last updated: 2026-03-20_
 - **Status:** BACKLOG — after April 15 relaunch
 - **Output:** To be scoped
 
+### HOME-001: Smart Home Dashboard (Pi5 + Home Assistant)
+- **Objective:** Unified dashboard for HVAC, watering (4 zones), and future home automation on Pi5
+- **Devices:** Honeywell VisionPRO 8000 (HVAC), Orbit B-hyve XD 2-port (garden), Denvest WiFi Timer via Smart Life (garden + animals)
+- **Platform:** Home Assistant OS on Pi5 — also runs Squeezelite add-on for music
+- **Zones:** Dogs/chickens (1), garden B-hyve (1), garden Denvest (1), HVAC (1)
+- **Status:** QUEUED — after Pi5 audio setup (this weekend) or early next week
+- **Urgency:** Spring planting underway — watering schedules matter now
+- **Output:** notes/home_assistant_setup.md (TBD)
+
 ### SUNNY-001: Sunny Antiques Inventory App
 - **Objective:** Mobile-first web app for inventory management + AI valuation
 - **Status:** BACKLOG — after JR/GJ
