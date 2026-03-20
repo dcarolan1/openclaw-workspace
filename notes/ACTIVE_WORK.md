@@ -6,8 +6,8 @@ _Last updated: 2026-03-20_
 
 ## Active Tasks
 
-### JR-001: Joy Restart Relaunch (April 1 Podcast Anchor)
-- **Objective:** Public relaunch of Joy Restart, anchored to Monica Mouer / CFT Institute podcast on April 1
+### JR-001: Joy Restart Relaunch (April 15 Launch)
+- **Objective:** Quality relaunch of Joy Restart on April 15. Build → Test → Refine → Launch.
 - **Steps:**
   1. ~~Site audit~~ ✅
   2. Draft re-engagement emails (3) ✅
