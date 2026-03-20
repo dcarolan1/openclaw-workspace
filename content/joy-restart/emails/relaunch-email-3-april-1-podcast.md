@@ -1,40 +1,37 @@
-# Email #3 — "Something Big on April 1"
-**Send date:** March 29
+# Email #3 — "You're Part of This"
+**Send date:** April 12 (3 days before launch)
 **List:** 500 ConvertKit contacts
 **From:** David Carolan, Joy Restart
 
 ---
 
-**Subject:** I'm going on a podcast — and I want you there first
+**Subject:** You were here first — and that matters
 
-**Preview text:** April 1 — Joy Restart goes public
+**Preview text:** Joy Restart is about to go public
 
 ---
 
 Hi [First Name],
 
-On **April 1st**, I'll be a guest on Monica Mouer's podcast **"The Place Therapists Grow"** at the CFT Institute.
+In a few days, Joy Restart goes public. I'll be sharing what we've built with Monica Mouer on her podcast "The Place Therapists Grow" at the CFT Institute, and our partners — Deeper Walk, Life Model Works, the Great Commandment Network, and others — will be letting their communities know about our assessments.
 
-I'll be talking about Joy Restart — what we've built, why free assessments matter for caregivers, and how our community is helping people grow in joy and emotional health.
+But you were here first. And I didn't want that moment to pass without saying thank you.
 
-But before the rest of the world hears about it, **I wanted you — our original community — to know first.**
+What we're building isn't just a website with assessments. It's a community of people who believe that **joy is relational, not circumstantial** — that it grows when we're honest about where we are, and when we walk with others who are growing too.
 
-Here's how to be part of what's coming:
+Here's what I'd love for you to do before we go public:
 
-**1. Take an assessment** (if you haven't yet)
-Our Joy, Maturity, Fear, and Forgiveness assessments are live and free.
-→ **[Take an Assessment](https://joyrestart.com/assessments/)**
+**1. Take an assessment** if you haven't yet. Start with the Joy Test — it's the best first step.
+→ [Take an Assessment](https://joyrestart.com/assessments/)
 
-**2. Join the Joy Restart Community**
-A free online space where we learn together, encourage each other, and grow in joy.
-→ **[Join the Community](https://joy-restart.mn.co/)**
+**2. Join the Joy Restart Community** — a free space where we learn, encourage, and grow in joy together.
+→ [Join the Community](https://joy-restart.mn.co/)
 
-**3. Share with someone who needs it**
-Know a pastor, counselor, coach, or caregiver who could use this? Forward this email or send them to joyrestart.com.
+**3. Think of one person** — a pastor, counselor, coach, caregiver, or friend — who could use this. Forward this email or send them to joyrestart.com.
 
-When the podcast drops on April 1st, I'll send you the link so you can listen and share it too.
+The best measure of maturity is the ability to remain joyful — even in the hard seasons. That's what we're building toward, together.
 
-Thank you for being here from the beginning.
+Thank you for being part of it from the beginning.
 
 David
 
@@ -42,7 +39,4 @@ _Joy Restart — a ministry of E456.org_
 
 ---
 
-**CTA buttons:**
-- Primary: Take an Assessment
-- Secondary: Join the Community
-- Tertiary: Forward to a Friend
+**CTA:** Take an Assessment (primary), Join Community (secondary)

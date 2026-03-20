@@ -1,35 +1,37 @@
 # Email #1 — "We're Back"
-**Send date:** March 24
+**Send date:** April 7 (one week before launch)
 **List:** 500 ConvertKit contacts
 **From:** David Carolan, Joy Restart
 
 ---
 
-**Subject:** Joy Restart has something new for you
+**Subject:** Something I've been building for you
 
-**Preview text:** Free assessments that reveal what's shaping your joy
+**Preview text:** Free assessments that show you where your joy really is
 
 ---
 
 Hi [First Name],
 
-It's been a while — and I've been busy building something I think you'll love.
+I've spent the last three years asking a question that won't leave me alone: *Why do so many believers struggle with joy — when Scripture tells us it's supposed to be central to our lives?*
 
-Over the past three years, I've worked with partners like Deeper Walk International, Life Model Works, and others to create something we didn't have before: **free, personalized assessments** that reveal what's actually shaping your joy, maturity, fear, and forgiveness.
+That question became a research project. The research became Joy Restart. And now, working alongside partners like Life Model Works, Deeper Walk International, and the Great Commandment Network, we've built something I wish had existed years ago.
 
-Each assessment takes about 10 minutes. When you're done, you'll receive a **detailed personalized report** — not a generic result, but real insight into where you are and what your next step looks like.
+**Free assessments** that help you see — honestly and compassionately — where you actually are in your journey with joy, maturity, forgiveness, and the fear of the Lord.
 
-Here's what's available right now:
-- **Joy Assessment** — understand what's building or blocking your joy
-- **Maturity Assessment** — see where you're growing and where you might be stuck
-- **Fear Assessment** — discover how holy fear leads to wisdom and peace
-- **Forgiveness Index** — see how your heart is processing forgiveness
+Each one takes about 10 minutes. When you finish, you'll receive a **detailed personalized report** — not a score or a label, but real insight into what's shaping your capacity for joy, and what your next step looks like.
+
+Here's what's available now:
+- **The Joy Test** — understand what's building or blocking your joy
+- **The Maturity Assessment** — see where you're growing and where you might be stuck
+- **The Forgiveness Index** — based on Everett Worthington's R.E.A.C.H model
+- **The F.E.A.R. Assessment** — grounded in John Bevere's teaching on holy fear
 
 **[Take Your First Assessment →](https://joyrestart.com/assessments/)**
 
-After you get your report, I'd love to talk with you about your results. I'm offering a **free 15-minute call** to walk through what your report means and what steps make sense for you.
+And if you'd like to talk about what your report reveals, I'm offering a **free 15-minute call**. Just you and me, walking through your results together.
 
-More is coming — but I wanted you to be first to know.
+Joy is not something taught as much as it is caught — and it starts with knowing where you are.
 
 Grace and peace,
 David
@@ -38,6 +40,4 @@ _Joy Restart — a ministry of E456.org_
 
 ---
 
-**CTA buttons:**
-- Primary: Take Your First Assessment
-- Secondary: Book a Free 15-Min Call
+**CTA:** Take Your First Assessment (primary)

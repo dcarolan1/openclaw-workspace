@@ -37,4 +37,35 @@ By increasing church congregants' capacity for joy through self-paced learning a
 - Nine Principles of Christian Joy defined
 - Working definition: "Joy is a powerful, responsive spiritual emotion derived from a loving relationship to another person whereby peace and well-being (shalom) have been previously attained (or are hopefully expected) causing a virtuous state of mind that will demonstrate by thought, word, and deed: 'I delight in you.'"
 
-## Chapters 4-6: (Extraction in progress)
+## Chapter 4: Literature Review
+- Joy is a positive emotion that enhances virtue, but scholarly work on it is limited
+- No consistent definition of joy exists across disciplines — David fills this gap
+- Neurotheology (brain research + spiritual significance) has made profound contributions
+- Knowledge of joy must be combined with *experiences* of joy for transformation
+- Churches often focus on doctrine/programs while failing to build family-like community
+- Conflict avoidance is not health — timely correction delivered joyfully in love is what's missing
+- Fear damages brain cells, rearranges memories, blocks compassion
+- Relational spirituality: theology was the study of relationship for 1,500 years until the Enlightenment separated intimacy from knowledge
+
+## Chapter 5: Ministry Project Strategy
+- Joy requires both education and experience — it is relational, preceded by perceiving another as beautiful and loving
+- The *impetus* (power) to persevere, not just the *intention* (will), is often overlooked in spiritual formation
+- Discipleship has devolved into rote knowledge transfer about God; a return to *experiencing* God is needed
+- Ingratitude — not pride — is the original sin (citing Ignatius of Loyola)
+- 12 types of love identified, from self-love to intra-Trinitarian love
+- Contentment can be a joy-substitute — false contentment leads to avoidant lifestyle
+- Contemplative tradition valued because it is practiced alone, uses the Word, deploys resting/imagination/yielding, leads to experiencing God's loving presence
+- **Course structure:** 4 sessions + intro, each with lecture, guest interview, joy skill exercise, group discussion
+  - Session 1: Gratitude in relationships (Terri Snead / Great Commandment Network)
+  - Session 2: How joy works — brain science (Marcus Warner)
+  - Session 3: Spiritual transformation — joyful journey (Michel Hendricks / Life Model)
+  - Session 4: Living joyfully during hardship (Leslie Bley / Enneagram)
+
+## Chapter 6: Implementation and Evaluation
+- **Assessment:** 173 questions across 7 sections (joy capacity, relational needs, spiritual formation, traditions, learning styles, attachment, cultural challenges). 7-point Likert scale.
+- **Participation:** 383 invited → 23 took assessment → 9 enrolled → 8 completed
+- **Key finding:** Participant group had lower joy scores, more insecure attachment, more divorce, lower "return to joy" scores — exactly the people who needed it most
+- **Results:** Every joy category improved by at least 28%. Experiencing God's love and joy improved by 71%.
+- **Top improvements:** (1) Experiencing God's hesed and realizing He is glad to be with me, (2) Called to love through joyful sincerity, (3) More trusting of God
+- **Six-month follow-up:** All participants expressed desire to continue. Joy with God: improving or stable. All wanted to take course again, preferably in person.
+- **Perfect scores:** "We are called to love God and others through joyful sincerity" and "I would recommend this course to a friend" — both scored 7.0/7.0

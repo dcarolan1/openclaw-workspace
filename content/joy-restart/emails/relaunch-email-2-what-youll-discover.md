@@ -1,36 +1,34 @@
 # Email #2 — "What You'll Discover"
-**Send date:** March 26
+**Send date:** April 9
 **List:** 500 ConvertKit contacts
 **From:** David Carolan, Joy Restart
 
 ---
 
-**Subject:** 10 minutes to understand your joy
+**Subject:** What 10 minutes can show you about your joy
 
-**Preview text:** A personalized report that actually helps
+**Preview text:** A personalized report grounded in Scripture and brain science
 
 ---
 
 Hi [First Name],
 
-I want to share what actually happens when you take a Joy Restart assessment — because it's not what you might expect.
+I want to tell you what actually happens when you take a Joy Restart assessment — because it's different from what you might expect.
 
-**In about 10 minutes**, you'll answer questions designed with input from leading practitioners in Christian maturity, attachment, and emotional health.
+**In about 10 minutes**, you'll reflect on questions designed with input from researchers in Christian maturity, attachment, and emotional health — people like Jim Wilder, Marcus Warner, and Todd Hall.
 
-**Then you'll receive a 5-8 page personalized report** that shows you:
+**Then you receive a personalized report** (5-8 pages) that shows you:
 
-- Where your joy capacity is strong — and where it's being blocked
-- How your attachment patterns shape your connection with God and others
-- Which of the four stages of Christian maturity you're currently in
-- Specific next steps tailored to your results
+- Your current capacity for joy — and what's building or blocking it
+- How your relational needs shape your connection with God and others
+- Where you are in the stages of Christian maturity
+- Specific, grace-filled next steps for your journey
 
-This isn't a quiz with a score. It's a mirror — designed to help you see yourself clearly and take one real step forward.
+This isn't a quiz. There's no pass or fail. It's a mirror — designed to help you see yourself the way God sees you, with honesty and compassion.
 
-**[Take the Joy Assessment →](https://joyrestart.com/assessments/)**
+**[Take the Joy Assessment →](https://joyrestart.com/assessments/joy-test/)**
 
-And if you want to talk through your results with someone who understands what they mean — I'm here. **Book a free 15-minute call** and we'll walk through your report together.
-
-**[Book Your Free Call →](https://joyrestart.com/coaching/)**
+After your report, if you want to talk through what it means, I'm here. I'm offering a **free 15-minute call** to walk through your results — no strings, no sales pitch. Just a conversation about where God might be inviting you to grow.
 
 You don't have to figure this out alone.
 
@@ -40,6 +38,4 @@ _Joy Restart — a ministry of E456.org_
 
 ---
 
-**CTA buttons:**
-- Primary: Take the Joy Assessment
-- Secondary: Book Your Free Call
+**CTA:** Take the Joy Assessment (primary)
