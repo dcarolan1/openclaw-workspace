@@ -30,7 +30,9 @@ David B Carolan
 - **Parent:** E456.org (church ministry, not a separate nonprofit)
 - **What it does:** Creates free assessments for Christian caregivers and individuals, with recommended followup based on results.
 - **Serves:** Christian community at large, focused on those providing direct counseling, coaching, and pastoral care.
-- **Assessment domains:** Joy, maturity, fear, forgiveness, loneliness, peace, depression
+- **Assessment domains:**
+  - **Live:** Joy, Maturity, Fear, Forgiveness
+  - **Backlog:** Depression (mostly built), Peace/Loneliness (built, not deployed), Generosity (TBD)
 - **Followup funnel:** Generated recommendations → curated resources → community (Mighty Networks) → webinars → cohorts → 1:1 coaching (David)
 - **Revenue:** Donation-based under E456 + David's personal coaching ($99 one-time to $150/hr)
 - **Current state:** Soft-launched March 2026 after 3-year pivot from traditional joy coaching. Ready for public relaunch. No marketing done yet.
