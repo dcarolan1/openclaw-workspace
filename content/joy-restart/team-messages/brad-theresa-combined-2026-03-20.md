@@ -9,64 +9,74 @@
 
 Brad, Theresa,
 
-I wanted to bring you both into what we're building for the Joy Restart relaunch. We've done a lot of foundational work over the past few days and I want to share where we are, what's coming, and what I'll need from each of you.
+I wanted to bring you both into what we're building for the Joy Restart relaunch. We've done a lot of foundational work over the past few days and I'm excited to share where we are.
 
-**The short version:** We're targeting April 15 for a public relaunch of Joy Restart. We have a detailed plan, emails written, assessment audits done, and a clear funnel mapped out. Now we need to execute — and that's where you come in.
+**The short version:** We're targeting April 15 for a public relaunch. We have a detailed plan, emails written, assessments audited, funnel mapped, and partner outreach ready. Now we need to execute together.
 
-**A note about how we're working:**
+**What's happening with our partners:**
 
-I'm being very intentional about how we roll this out. We are NOT launching Slack, Teams, our email operations through aaron@bizassistancegroup.com, or our marketing automation engine until we've laid a solid foundation together. I want us to learn to work as a team, fix a few things on the site and backend, and get the basics right before we scale up tooling.
+I'm recording a podcast with Monica Mouer at the CFT Institute — we're confirming the air date now and aligning it with our relaunch. We're also reaching out to each of our ministry partners — Deeper Walk, Life Model Works, Great Commandment Network, R.E.A.C.H, Messenger International, and Joy512 — to let them know we're relaunching and to invite them to share our assessments with their communities. This isn't just about Joy Restart growing. We're supporting them and the work we've built together. When our assessments get in front of more people, everyone's ministry benefits.
 
-You've both met Aaron — he's my AI executive assistant and he's been doing the heavy lifting on strategy, writing, and auditing. Aaron will be cc'd on communications going forward. He drafted much of what I'm about to share, and you may interact with him directly as we move forward. He's sharp, thorough, and aligned with how I think. Trust his work.
+**About Aaron — and what this means for you:**
 
-**Here's what we've done so far:**
+You've both met Aaron. He's my AI executive assistant, and over the past two days he has:
 
-- Completed a full audit of all four assessments (Joy, Forgiveness, Fear, Maturity) — questions, scoring, reports, UX
-- Identified site fixes needed before launch (details below)
-- Written 8 emails — 3 re-engagement for our 500 contacts + 5 post-assessment automated sequence
-- Mapped the full funnel: assessment → report → free 15-min call → community → partners
-- Identified privacy and disclosure issues that need attention
-- Drafted updated disclosure page text and consent language
+- Ingested my entire doctoral dissertation and aligned to my voice and theology
+- Audited all four assessments (questions, scoring, reports, UX, privacy)
+- Written 8 emails (3 re-engagement + 5 post-assessment sequence)
+- Built the full relaunch plan with funnel, timelines, and roles
+- Drafted disclosure and consent language for our privacy updates
+- Researched our partners and their frameworks
 
-**What I need from each of you:**
+Aaron executes fast. If you need copy rewritten, a task clarified, research done, or something extended — engage him directly. He's cc'd on this email and will be available going forward. He has full access to my thinking, my research, and soon my complete working archive. There is a lot of capacity here that wasn't available before.
 
-I'll be sending you each a detailed task list on Monday with specifics. But here's the high level:
+**What this means practically:** This relaunch will be more thorough than anything we've done — the plans are detailed, the audits are deep, and the standards are higher. But it should also be *easier* for you because Aaron handles the heavy lifting on strategy, writing, and coordination. You focus on execution in your areas of expertise. He supports you.
 
-**Brad:**
-- Site fixes: /about/ page (currently 404), disclosure links (broken on all assessments), consent checkbox text update
-- Add email-my-results to Joy, Fear, and Maturity (Forgiveness already has it)
-- Set up 4 TidyCal booking pages (one per assessment) for free 15-minute calls
-- Answer some questions about how Formidable Pro stores assessment data (privacy review)
-- Implement updated assessment descriptions when I send them
-- Target: most items done by April 7
+**A note about how we're rolling out:**
 
-**Theresa:**
-- Load 3 re-engagement emails into ConvertKit (I'll send the content)
-- Set up 5-email post-assessment automation in ConvertKit
-- Refresh Mighty Networks — new welcome post, clean stale content, pin resources
-- Confirm ConvertKit ↔ MN integrations are working
+I'm being intentional about this. We are NOT launching Slack, Teams, aaron@bizassistancegroup.com email operations, or our marketing automation engine yet. We build the foundation first — learn to work together in this new way, fix the site and backend, get the basics right. Then we scale up tooling. Methodical. Thorough. But joyful. This is Joy Restart after all.
+
+**What we've done so far:**
+
+- Full audit of all four assessments — questions, scoring, reports, UX, privacy
+- 8 emails drafted and refined in my voice
+- Full funnel mapped: assessment → report → free 15-min call → community → partners
+- Privacy and disclosure review with updated language
+- Partner outreach messages being drafted now
+- Podcast with Monica Mouer being scheduled
+
+**Brad — high level:**
+- Site fixes: /about/ page (404), disclosure links (broken), consent text update
+- Add email-my-results to Joy, Fear, Maturity
+- 4 TidyCal booking pages (one per assessment type)
+- Privacy and data questions (how Formidable stores data)
+- Assessment description upgrades (Aaron provides copy)
+- Target: most items by April 7
+
+**Theresa — high level:**
+- Load 3 re-engagement + 5 automated emails into ConvertKit
+- Refresh Mighty Networks — welcome post, clean content, pin resources
+- Confirm ConvertKit ↔ MN integrations
 - Coordinate with Brad on TidyCal placement inside MN
-- Prepare social media content calendar for April 7-20
-- Target: emails loaded by April 5, MN refresh by April 7
+- Social media content calendar for April 7-20
+- Target: emails by April 5, MN by April 7
 
 **Timeline:**
 
 | Week | What Happens |
 |------|-------------|
-| Mar 24-28 | You receive detailed tasks. Begin site fixes and email setup. |
-| Mar 31 - Apr 4 | Site fixes complete. Emails loaded. MN refreshed. |
-| Apr 7-11 | We test with 10 real users. Refine based on what we learn. |
-| Apr 14-15 | Launch. Emails go out. Partners share. Podcast aligned. |
+| Mar 24-28 | Detailed tasks arrive. Begin work. |
+| Mar 31 - Apr 4 | Site fixes + emails loaded + MN refreshed. |
+| Apr 7-11 | Test with 10 real users. Refine. |
+| Apr 14-15 | Launch. Partners share. Podcast aligned. |
 
 **What's NOT happening yet (by design):**
-- No Slack channel yet — we'll activate that once we're working smoothly together
-- No aaron@ba.com email operations yet — Aaron is operating through me for now
-- No marketing automation engine yet — we build the foundation first, then scale
+- No Slack — activated once we're working smoothly
+- No aaron@ba.com email ops — Aaron operates through me for now
+- No marketing engine — foundation first, then scale
 
-I know this is more structured than how we've worked in the past. That's intentional. Joy Restart deserves a quality launch, not a rushed one. We have three weeks to do this right.
+Detailed task lists coming Monday morning. In the meantime, if you have questions, reach out anytime.
 
-I'll send the detailed task lists Monday morning. In the meantime, if either of you has questions, let me know.
-
-Thank you both. Looking forward to this.
+I'm grateful for both of you. Let's do this right — and enjoy the process.
 
 David
