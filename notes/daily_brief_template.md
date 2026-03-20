@@ -34,6 +34,23 @@ _Useful but non-critical notes_
 
 ---
 
+## 6. System Metrics
+_Aaron's processing stats_
+
+| Metric | Value |
+|--------|-------|
+| Disk | XX GB used / XX GB free (XX%) |
+| Session tokens | XXk context used / 1M capacity (XX%) |
+| Compactions | X |
+| Cache hit rate | XX% |
+| Primary model | Claude Opus (Anthropic API) |
+| Local models | qwen3:8b, qwen3:32b |
+| Est. cost | $X.XX (based on token usage) |
+
+_Pricing reference: Claude Opus input $15/MTok (uncached), $1.875/MTok (cached), output $75/MTok_
+
+---
+
 ## Operating Rule
 
 This brief is generated daily from:
