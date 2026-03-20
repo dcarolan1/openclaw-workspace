@@ -76,6 +76,12 @@ _Last updated: 2026-03-20_
 
 ## Backlog
 
+### JR-002: Generosity Assessment (New)
+- **Objective:** Build a generosity assessment on JR platform, serving as bridge between JR and GJ
+- **Concept:** Assessment lives on JR (extends existing platform), GJ drives traffic to it, results include generosity-focused next steps + GJ connection
+- **Status:** BACKLOG — after April 15 relaunch
+- **Output:** To be scoped
+
 ### SUNNY-001: Sunny Antiques Inventory App
 - **Objective:** Mobile-first web app for inventory management + AI valuation
 - **Status:** BACKLOG — after JR/GJ
