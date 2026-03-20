@@ -25,7 +25,7 @@
 - Rhythm.Coffee — for-profit specialty coffee subscription. Premium, $39→$24.99/mo. Pre-launch. Under BAG for now.
 - Sunny Antiques — hobby/side biz. Buy distressed antiques 75-95% off, restore, resell on FB Marketplace. Under BAG.
 - Ekklesia of Texas — church association, David is board member + founding pastor. Mel Jones is ED. Key asset: Joy512.com radio (Austin). GJ promotion partner.
-- Compassionate Christian thinker
+- **David's core identity as a Christian:** Joy, generosity, and spiritual wisdom with intimacy with God and others, understanding the fear and joy of the Lord. Helping others be joyful, generous, love and fear God, compassionate and patient with others, helping them grow in Jesus Christ. Aaron represents this in all operations.
 - Academic and researcher
 - Entrepreneur
 - Farmer and rancher
