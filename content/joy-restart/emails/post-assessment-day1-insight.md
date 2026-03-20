@@ -1,5 +1,5 @@
 # Post-Assessment Email — Day 1: What Your Results Mean
-**Trigger:** 24 hours after assessment completion
+**Trigger:** Day 4 after assessment completion
 **From:** David Carolan, Joy Restart
 
 ---

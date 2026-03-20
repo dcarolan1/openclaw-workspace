@@ -1,5 +1,5 @@
 # Post-Assessment Email — Day 3: You're Not Alone
-**Trigger:** 3 days after assessment completion
+**Trigger:** Day 5 after assessment completion
 **From:** David Carolan, Joy Restart
 
 ---

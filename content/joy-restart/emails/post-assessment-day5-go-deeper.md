@@ -1,5 +1,5 @@
 # Post-Assessment Email — Day 5: Go Deeper
-**Trigger:** 5 days after assessment completion
+**Trigger:** Day 7 after assessment completion
 **From:** David Carolan, Joy Restart
 
 ---

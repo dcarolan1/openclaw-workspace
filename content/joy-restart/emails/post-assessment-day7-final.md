@@ -1,5 +1,5 @@
 # Post-Assessment Email — Day 7: Still Thinking?
-**Trigger:** 7 days after assessment completion
+**Trigger:** Day 10 after assessment completion
 **From:** David Carolan, Joy Restart
 
 ---
