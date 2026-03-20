@@ -30,6 +30,8 @@ Here's what I'd suggest next:
 
 **[Take Your Next Assessment →](https://joyrestart.com/assessments/)**
 
-Together, these reports give a fuller picture of where God is at work in your life.
+Already exploring? Join the community for monthly webinars, curated resources, and people growing alongside you — all free.
+
+**[Join the Community →](https://joy-restart.mn.co/)**
 
 Dr. David Carolan

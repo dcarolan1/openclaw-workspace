@@ -22,10 +22,11 @@ The offer stands: **15 minutes with me, free.** We'll look at your results toget
 
 **[Join & Book Your Free Call →](https://joy-restart.mn.co/)**
 
-Or keep exploring on your own:
-- [Joy Restart Resources](https://joyrestart.com/joy-resources/) — curated books and tools from our partners
-- [Joy Restart Community](https://joy-restart.mn.co/) — a free space to grow with others
-- [*The Awe of God* by John Bevere](https://johnbevere.com) — the fear that leads to freedom
+Or keep growing at your own pace — the community is free, with monthly partner webinars, curated resources, and people on the same journey.
+
+**[Join the Community →](https://joy-restart.mn.co/)**
+
+[Explore our partners and the research behind our assessments →](https://joyrestart.com/assessments/)
 
 Wherever you are on the journey, you're not behind. You're exactly where God can meet you.
 

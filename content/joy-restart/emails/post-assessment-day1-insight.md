@@ -24,7 +24,10 @@ If you'd like someone to walk through it with you:
 
 **[Join & Book Your Free Call →](https://joy-restart.mn.co/)**
 
-Or go deeper on your own:
-→ [*Building Bounce* by Marcus Warner — growing emotional resilience](https://lifemodelworks.org)
+Not ready for a call? The community is free — and inside you'll find monthly webinars, curated resources, and people on the same journey.
+
+**[Join the Community →](https://joy-restart.mn.co/)**
+
+[Go deeper: *Building Bounce* by Marcus Warner →](https://lifemodelworks.org)
 
 Dr. David Carolan

@@ -1,7 +1,7 @@
 # Email #1 — "We're Back"
 **Send date:** April 7 (one week before launch)
 **List:** 500 ConvertKit contacts
-**From:** David Carolan, Joy Restart
+**From:** Dr. David Carolan, Joy Restart
 
 ---
 
@@ -31,9 +31,11 @@ Here's what's available:
 
 If you'd like to talk about what your report reveals, I'm offering a **free 15-minute call** — just you and me, walking through your results together.
 
+**[Join & Book Your Free Call →](https://joy-restart.mn.co/)**
+
 Joy is caught, not taught — and it starts with knowing where you are.
 
-Grace and peace,
-David
+[Learn more about the research behind our assessments →](https://joyrestart.com/assessments/)
 
-_Joy Restart — a ministry of E456.org_
+Grace and peace,
+Dr. David Carolan

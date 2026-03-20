@@ -1,7 +1,7 @@
 # Email #2 — "What You'll Discover"
 **Send date:** April 9
 **List:** 500 ConvertKit contacts
-**From:** David Carolan, Joy Restart
+**From:** Dr. David Carolan, Joy Restart
 
 ---
 
@@ -30,10 +30,12 @@ This isn't a quiz. There's no pass or fail. It's an honest mirror — designed t
 
 And if you want to talk through what your report means, I'm here — **a free 15-minute call**, just a conversation about where God might be inviting you to grow.
 
-**[Book a Free 15-Minute Call →](https://joyrestart.com/coaching/)**
+**[Join & Book Your Free Call →](https://joy-restart.mn.co/)**
 
-You don't have to figure this out alone.
+Not ready for a call? Join the community — it's free, and members get access to monthly partner webinars, curated resources, and the full Joy & Transformation Assessment.
 
-David
+**[Join the Community →](https://joy-restart.mn.co/)**
 
-_Joy Restart — a ministry of E456.org_
+[Learn more about the research behind our assessments →](https://joyrestart.com/assessments/)
+
+Dr. David Carolan

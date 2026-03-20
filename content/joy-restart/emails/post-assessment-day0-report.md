@@ -22,8 +22,11 @@ If anything surprised you, or if you'd like to walk through your results togethe
 
 **[Join & Book Your Free Call →](https://joy-restart.mn.co/)**
 
-Or explore more from our partner:
-→ [Life Model Works — books, trainings, community](https://lifemodelworks.org)
+Not ready for a call? Join the community — it's free, and members get access to monthly partner webinars, curated resources, and the full Joy & Transformation Assessment.
+
+**[Join the Community →](https://joy-restart.mn.co/)**
+
+[Learn more from our partner Life Model Works →](https://lifemodelworks.org)
 
 Grace and peace,
 Dr. David Carolan
