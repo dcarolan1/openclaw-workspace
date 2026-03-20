@@ -35,19 +35,47 @@ _Useful but non-critical notes_
 ---
 
 ## 6. System Metrics
-_Aaron's processing stats_
+_Aaron's processing and system health_
 
+### Infrastructure
 | Metric | Value |
 |--------|-------|
+| Uptime | X days, X hours |
+| CPU load | X.XX |
+| RAM | XX GB used / 62 GB |
 | Disk | XX GB used / XX GB free (XX%) |
-| Session tokens | XXk context used / 1M capacity (XX%) |
+| Workspace size | XX MB |
+
+### AI Usage
+| Metric | Value |
+|--------|-------|
+| Session tokens | XXk / 1M (XX%) |
 | Compactions | X |
 | Cache hit rate | XX% |
-| Primary model | Claude Opus (Anthropic API) |
+| Primary model | Claude Opus 4 |
 | Local models | qwen3:8b, qwen3:32b |
-| Est. cost | $X.XX (based on token usage) |
+| Est. session cost | $X.XX |
 
-_Pricing reference: Claude Opus input $15/MTok (uncached), $1.875/MTok (cached), output $75/MTok_
+_Pricing: Opus input $15/MTok (uncached), $1.875/MTok (cached), output $75/MTok_
+
+### Activity
+| Metric | Value |
+|--------|-------|
+| Git commits (today) | X |
+| Git commits (total since rebuild) | X |
+| Files in workspace | X |
+| Active cron jobs | X |
+
+### Services
+| Service | Status |
+|---------|--------|
+| OpenClaw gateway | ✅ / ❌ |
+| Ollama | ✅ / ❌ |
+| LMS (Lyrion) | ✅ / ❌ |
+| Chromium (browser) | Available / Not running |
+
+### Alerts
+- ⚠️ (any disk, memory, or service warnings)
 
 ---
 
