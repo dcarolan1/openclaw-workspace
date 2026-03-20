@@ -14,11 +14,16 @@ Hi [First Name],
 
 A few days ago you received your [Assessment Name] report. I hope you've had a chance to look through it.
 
-As you read it, remember: this isn't a grade. It's a starting point. God meets us where we are.
+As I wrote in my research, "Joy is a powerful, responsive spiritual emotion derived from a loving relationship — causing a virtuous state of mind that demonstrates: *I delight in you.*" Your report shows where that delight is present — and where it's waiting to grow.
+
+Remember: this isn't a grade. It's a starting point. God meets us where we are.
 
 If anything surprised you, or if you'd like to walk through your results together — I'm here. Fifteen minutes, no agenda.
 
-**[Book a Free 15-Minute Call →](https://joyrestart.com/coaching/)**
+**[Join & Book Your Free Call →](https://joy-restart.mn.co/)**
+
+Or explore more from our partner:
+→ [Life Model Works — books, trainings, community](https://lifemodelworks.org)
 
 Grace and peace,
 Dr. David Carolan
