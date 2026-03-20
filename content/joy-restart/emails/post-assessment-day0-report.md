@@ -4,23 +4,23 @@
 
 ---
 
-**Subject:** Your Joy Restart report is ready
+**Subject:** Your report is ready
 
-**Preview text:** Here's what we found — and what it means for you
+**Preview text:** What we found — and what it means
 
 ---
 
 Hi [First Name],
 
-Thank you for taking the [Assessment Name]. That took courage — and it matters.
+Thank you for taking the [Assessment Name].
 
-Your personalized report is ready. It contains insights into where you are right now — your capacity for joy, what might be building or blocking it, and where growth is waiting.
+Your personalized report is ready. It shows where you are right now — honestly, and with grace.
 
 **[View Your Report →](link)**
 
-As you read it, remember: this isn't a judgment. It's a starting point. God meets us where we are, not where we think we should be.
+As you read it, remember: this isn't a grade. It's a starting point. God meets us where we are.
 
-If anything in your report surprises you — or if you want to talk through what it means — I'd love to spend 15 minutes with you. No agenda, just a conversation.
+If anything in your report surprises you, or if you'd like to walk through it together — I'm here. Fifteen minutes, no agenda.
 
 **[Book a Free 15-Minute Call →](https://joyrestart.com/coaching/)**
 

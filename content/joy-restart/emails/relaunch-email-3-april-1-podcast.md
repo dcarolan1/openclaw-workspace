@@ -5,38 +5,32 @@
 
 ---
 
-**Subject:** You were here first — and that matters
+**Subject:** You were here first
 
-**Preview text:** Joy Restart is about to go public
+**Preview text:** Joy Restart goes public next week
 
 ---
 
 Hi [First Name],
 
-In a few days, Joy Restart goes public. I'll be sharing what we've built with Monica Mouer on her podcast "The Place Therapists Grow" at the CFT Institute, and our partners — Deeper Walk, Life Model Works, the Great Commandment Network, and others — will be letting their communities know about our assessments.
+Next week, Joy Restart goes public. I'll be sharing what we've built on Monica Mouer's podcast at the CFT Institute, and our partners — Deeper Walk, Life Model Works, the Great Commandment Network — will be telling their communities about our assessments.
 
-But you were here first. And I didn't want that moment to pass without saying thank you.
+But you were here before any of that. Thank you.
 
-What we're building isn't just a website with assessments. It's a community of people who believe that **joy is relational, not circumstantial** — that it grows when we're honest about where we are, and when we walk with others who are growing too.
+What we're building isn't just a website with assessments. It's a community of people who believe that joy is relational, not circumstantial — that it grows when we're honest about where we are and when we walk with others who are growing too.
 
-Here's what I'd love for you to do before we go public:
+Before we go public, here's what I'd ask:
 
-**1. Take an assessment** if you haven't yet. Start with the Joy Test — it's the best first step.
+**1. Take an assessment** if you haven't yet. The Joy Test is the best starting point.
 → [Take an Assessment](https://joyrestart.com/assessments/)
 
-**2. Join the Joy Restart Community** — a free space where we learn, encourage, and grow in joy together.
+**2. Join the Joy Restart Community** — a free space to learn, encourage, and grow together.
 → [Join the Community](https://joy-restart.mn.co/)
 
-**3. Think of one person** — a pastor, counselor, coach, caregiver, or friend — who could use this. Forward this email or send them to joyrestart.com.
+**3. Think of one person** — a pastor, counselor, coach, or caregiver — who could use this. Forward this email or send them to joyrestart.com.
 
-The best measure of maturity is the ability to remain joyful — even in the hard seasons. That's what we're building toward, together.
-
-Thank you for being part of it from the beginning.
+The best measure of maturity is the ability to remain joyful — even in the hard seasons. That's what we're building toward.
 
 David
 
 _Joy Restart — a ministry of E456.org_
-
----
-
-**CTA:** Take an Assessment (primary), Join Community (secondary)
