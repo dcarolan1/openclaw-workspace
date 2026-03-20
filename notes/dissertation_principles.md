@@ -34,6 +34,14 @@
 - Four requirements for developing joy-bonds: (1) willingness to experience God humbly, (2) Bible-centeredness, (3) hearing God's still small voice, (4) consistent joyful interaction with others
 - The speed of "return to joy" from negative emotions is the key maturity metric
 
+## Assessment Expertise Context
+
+- **Joy:** David's core expertise. Dissertation-level research. Recognized authority.
+- **Forgiveness:** Grounded in Oxford summer studies with Dr. Liz Guilford and Dr. Everett Worthington. Academically solid.
+- **Fear (F.E.A.R.):** Possibly David's best work. Result of 5-month sabbatical studying John Bevere and others. Deep and refined.
+- **Maturity:** Most challenging. David uses 8 stages (vs. Wilder's 5). Key tension: most US adults operate from trapped infant/child stages while chronologically adult. Terminology and staging may need further refinement.
+- **Assessment build process:** David designed in Grok/ChatGPT → Brad implemented in Formidable Pro on WordPress. Exported conversation histories from Grok/ChatGPT contain the working papers showing how each assessment evolved.
+
 ## Key Influences
 - **Jim Wilder / Life Model:** Joy capacity, maturity stages, R.A.R.E. framework, brain science + discipleship
 - **Allan Schore:** Neuroscience of attachment and affect regulation
