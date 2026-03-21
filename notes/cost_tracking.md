@@ -52,6 +52,29 @@ _David reported ~$200 spent on Anthropic, which aligns with this estimate._
 
 ---
 
+## Pending: Multi-Model Routing (Connect When Ready)
+
+**David has API keys for:**
+- Grok (xAI) — used for assessment design, creative work
+- ChatGPT / GPT-4o (OpenAI) — general purpose, cheaper than Opus
+
+**Connect when these conditions are met:**
+1. JR April 15 relaunch is executing (not planning)
+2. Brad and Theresa are actively working on tasks
+3. Aaron has bandwidth for system integration work
+4. A natural pause in execution (not mid-deliverable)
+
+**What Aaron will do with them:**
+- Route first drafts → GPT-4o (80% cheaper than Opus)
+- Route research synthesis → Grok or GPT-4o
+- Route quick lookups → qwen3:8b (free)
+- Keep final quality / David-facing → Opus only
+
+**Expected impact:** 30-50% reduction in Anthropic monthly costs
+
+**Aaron will prompt David when ready:**
+> "David — we have bandwidth to connect GPT-4o and Grok APIs. This will reduce our Anthropic costs by routing drafts and research through cheaper models. Can you provide the API keys?"
+
 ## Notes
 - Estimates are based on session token metrics + pricing. Not exact.
 - Actual billing is at console.anthropic.com → Settings → Billing → Usage
