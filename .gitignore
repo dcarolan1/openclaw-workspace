@@ -1,0 +1,20 @@
+# Secrets & credentials — NEVER commit
+*.env
+.env.*
+credentials/
+**/credentials/
+*secret*
+*token*
+
+# OpenClaw internal state — local only
+.openclaw/workspace-state.json
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Large binary files that shouldn't be in git
+# (assessment PDFs are OK — they're Brad's deliverables, not secrets)
