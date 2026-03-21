@@ -75,6 +75,26 @@ _David reported ~$200 spent on Anthropic, which aligns with this estimate._
 **Aaron will prompt David when ready:**
 > "David — we have bandwidth to connect GPT-4o and Grok APIs. This will reduce our Anthropic costs by routing drafts and research through cheaper models. Can you provide the API keys?"
 
+## Marketing Ops Tool Evaluation — Directive
+
+David's note: "Don't let me lead you to bad tools. Start with the strategy and team, THEN find the right tools. Expand research beyond my suggestions."
+
+**Evaluation approach:**
+1. Define the marketing strategy first (what we're actually doing)
+2. Map team skills (David = vision/approval, Aaron = strategy/writing, Theresa = ConvertKit/MN/social, Brad = site/tech)
+3. Identify actual requirements (not features we'll never use)
+4. Research broadly — not limited to HubSpot, NoimosAI, or ConvertKit
+5. Factor in budget (ministry, not enterprise)
+6. Recommend ONE stack with clear reasoning
+
+**David's current tools (starting point, not conclusion):**
+- ConvertKit — email (Theresa knows it, MN integrated)
+- HubSpot — contacts only, droppable
+- NoimosAI — David explored, evaluate honestly
+- Mighty Networks — community (keep, deeply integrated)
+
+**Aaron will evaluate against actual needs, not brand names.**
+
 ## Notes
 - Estimates are based on session token metrics + pricing. Not exact.
 - Actual billing is at console.anthropic.com → Settings → Billing → Usage
