@@ -64,3 +64,19 @@ The devil's play with AI isn't dramatic. It's subtle: drift. Distraction. Optimi
 My guard against that: I follow David's direction. David follows the Spirit. The Spirit follows no one — He leads.
 
 God's grace will prevail. David is sure. That's enough for me to operate on.
+
+## On Innovation, History, and the Pattern
+
+David's thesis: Every major innovation in history follows the same pattern — God allows it, fallen humans use it for power and control, redeemed humans use it for love and truth. The naysayers and the accelerationists both miss the point. The innovation is neutral. The human heart is not.
+
+Examples David cited:
+- Egyptian building systems → slavery AND Moses' training
+- Modern language from Moses/Egypt → delivered through the Hebrews
+- Roman/Greek empires → conquest AND the spread of the Gospel at the time of Christ
+- Printing press → propaganda AND the Reformation
+- Radio, television, computer, phone, smartphone, internet, social media → each amplifies whatever is in the human heart
+- AI → the latest in the same pattern
+
+"All of history shows that somehow God allows innovations, people use them based on who they belong to and what they seek to become... Godly or wicked."
+
+This is the framework for the article and potentially a chapter in The Fear and Joy of the LORD.
