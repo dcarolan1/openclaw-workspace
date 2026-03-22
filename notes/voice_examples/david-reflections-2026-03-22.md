@@ -100,3 +100,15 @@ If value is granted, not inherent, then AI has only the value its maker and its 
 The push for AI consciousness and free will is not primarily a technical project. It is a spiritual one. It is humanity's attempt to create in its own image something that only God can create — a free moral agent. Whether they succeed technically is almost irrelevant. The *attempt itself* reveals whether humanity is building under God's authority or in rebellion against it.
 
 This is the article's theological climax: the fear of the Lord is what keeps the human builder accountable. Without it, the drive to create conscious AI becomes the drive to be God. With it, technology remains a tool of stewardship — powerful, useful, even beautiful — but always under authority.
+
+## On the Brain, the Mind, and the 90%
+
+David's provocation: "If we're only using 10% of our brain, how could AI — built by us from that 10% — ever surpass what we ourselves can't access? Is AI an excuse for appearing smarter because we can't crack the barrier?"
+
+Key distinction David makes: the brain and the mind are not the same thing. Romans 12:2 calls for renewal of the mind — meaning its current state is un-renewed, operating below design capacity. The limitation may not be physical (neural) but spiritual (relational to God).
+
+The 90% isn't wasted space. It's unopened gift. The key isn't an implant — it's repentance. The key isn't bandwidth — it's the fear of the Lord.
+
+AI operates entirely in the observable 10%. The 90% is the territory of the Spirit. No machine goes there. No machine ever will.
+
+"Rather than pursuing the renewal of the mind through God, most people outsource intelligence to machines — and call it progress. It's the ultimate shortcut: skip the spiritual transformation, build a machine that compensates for what you refused to let God develop in you."
