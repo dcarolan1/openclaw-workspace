@@ -27,7 +27,8 @@
 | 4 | Shoulder Press (Machine) | 1 | 60–90s |
 | 5 | Leg Press (Machine) | 1 | 60–90s |
 | 6 | Leg Curl (Machine) | 1 | 60–90s |
-| 7 | Abdominal Machine | 1 | 45–75s |
+| 7 | Butt Blaster / Glute Machine (Monday only) | 1 | 60–90s |
+| 8 | Abdominal Machine | 1 | 45–75s |
 
 **Notes:**
 - Train to true muscular fatigue
